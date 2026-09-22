@@ -1,1262 +1,1190 @@
 [
   {
-    "id": "1788139670028",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰①TEST (2026/8/31)",
-    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰①TEST",
-    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=01",
+    "id": "1790063350676",
+    "title": "©kiryoアプリ　厳選詰将棋① (2026/9/22)",
+    "appTitle": "©kiryoアプリ　厳選詰将棋①",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=12",
     "problems": [
       {
         "id": 1,
         "title": "第1問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/8k/9/7L1/6N2/9/9/9/9 b 2r2b4g4s3n2l18p 1"
+        "description": "吊るし桂",
+        "initialSfen": "3gkr3/9/4S4/9/9/9/9/9/9 b Nr2b3g3s3n4l18p 1"
       },
       {
         "id": 2,
         "title": "第2問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8s/8k/6G2/7L1/9/9/9/9/9 b 2r2b3g3s4n3l18p 1"
-      },
-      {
-        "id": 50,
-        "title": "第50問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6r1l/8k/6R2/9/9/9/9/9/9 b G2b3g4s4n3l18p 1"
-      }
-    ],
-    "timestamp": 1788139670038
-  },
-  {
-    "id": "1781955760697",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰① (2026/6/20)",
-    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰①",
-    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=01",
-    "problems": [
-      {
-        "id": 1,
-        "title": "第1問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/8k/9/7L1/6N2/9/9/9/9 b 2r2b4g4s3n2l18p 1"
-      },
-      {
-        "id": 2,
-        "title": "第2問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8s/8k/6G2/7L1/9/9/9/9/9 b 2r2b3g3s4n3l18p 1"
+        "description": "持ち駒の金・銀を使って詰ましてください。",
+        "initialSfen": "7nl/7k1/5+P1pp/9/9/9/9/9/9 b GS 1"
       },
       {
         "id": 3,
         "title": "第3問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6RG1/8k/6spp/9/9/9/9/9/9 b r2b3g3s4n4l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "7kl/9/6Ppp/9/9/9/9/9/9 b GS2r2b3g3s4n3l15p 1"
       },
       {
         "id": 4,
         "title": "第4問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6R2/5G1k1/6spp/9/9/9/9/9/9 b r2b3g3s4n4l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "7kl/9/6P1p/9/9/9/9/9/9 b GS2r2b3g3s4n3l16p 1"
       },
       {
         "id": 5,
         "title": "第5問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6B1l/8k/9/7S1/9/9/9/9/9 b 2rb4g3s4n3l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "7nl/6GSk/6pp1/8p/9/9/9/9/9 b L2r2b3g3s3n2l15p 1"
       },
       {
         "id": 6,
         "title": "第6問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6B1s/6P1k/9/7S1/9/9/9/9/9 b 2rb4g2s4n4l17p 1"
+        "description": "持ち駒の金を使って詰ましてください。",
+        "initialSfen": "5R3/7k1/5pppp/9/9/9/9/9/9 b G 1"
       },
       {
         "id": 7,
         "title": "第7問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7kl/9/5SG1g/9/9/9/9/9/9 b 2r2b2g3s4n3l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "ln1g5/1ks6/pppp5/9/4B4/9/9/9/9 b GN2rb2g3s2n3l14p 1"
       },
       {
         "id": 8,
         "title": "第8問",
-        "description": "新しい問題です。盤面を編集してください。",
-        "initialSfen": "7kl/9/5SG1s/9/9/9/9/9/9 b 2r2b3g2s4n3l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "8k/6n2/7P1/9/9/9/9/9/9 b B2rb4g4s3n4l17p 1"
       },
       {
         "id": 9,
         "title": "第9問",
-        "description": "新しい問題です。盤面を編集してください。",
-        "initialSfen": "7n1/7k1/9/7S1/9/9/9/9/9 b 2G2r2b2g3s3n4l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "8k/6S1l/9/9/9/9/9/9/9 b BN2rb4g3s3n3l18p 1"
       },
       {
         "id": 10,
         "title": "第10問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/7k1/9/6sS1/9/9/9/9/9 b 2G2r2b2g2s4n4l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "ln1g5/1ks6/1ppp5/p8/4B4/P1P6/9/9/9 b G2N2rb2g3sn3l12p 1"
       },
       {
         "id": 11,
         "title": "第11問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/7kl/7p1/6P1p/9/9/9/9/9 b 2S2r2b4g2s4n3l15p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "ln7/1kg+R5/pppp5/9/9/9/9/9/9 b Sr2b3g3s3n3l14p 1"
       },
       {
         "id": 12,
         "title": "第12問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5r1kl/9/6S1p/9/9/9/9/9/9 b 2Sr2b4gs4n3l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "ln7/2ks+R4/pppp5/9/9/9/9/9/9 b Gr2b3g3s3n3l14p 1"
       },
       {
         "id": 13,
         "title": "第13問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/8k/6R2/9/9/9/9/9/9 b Gr2b3g4s4n3l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "7nl/4+Rgk2/6ppp/9/9/9/9/9/9 b Gr2b2g4s3n3l15p 1"
       },
       {
         "id": 14,
         "title": "第14問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6l1l/8k/6R2/9/9/9/9/9/9 b Gr2b3g4s4n2l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "7nl/4+Rgk2/5pppp/9/9/9/9/9/9 b SNr2b3g3s2n3l14p 1"
       },
       {
         "id": 15,
         "title": "第15問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nl/8k/6+R2/7p1/9/9/9/9/9 b Sr2b4g3s3n3l17p 1"
+        "description": "持ち駒の金・銀を使って詰ましてください。",
+        "initialSfen": "7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1"
       },
       {
         "id": 16,
         "title": "第16問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nl/5b2k/6R1p/9/9/9/9/9/9 b Nrb4g4s2n3l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "7nl/4Rsk2/5pppp/9/9/9/9/9/9 b 2Gr2b2g3s3n3l14p 1"
       },
       {
         "id": 17,
         "title": "第17問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7k1/5+R2l/9/9/9/9/9/9/9 b Pr2b4g4s4n3l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "ln1g1R3/1ksG5/pppp5/9/9/9/9/9/9 b GSr2bg2s3n3l14p 1"
       },
       {
         "id": 18,
         "title": "第18問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6kn1/9/5P2R/5L3/9/9/9/9/9 b Brb4g4s3n3l17p 1"
+        "description": "持ち駒の金・銀を使って詰ましてください。",
+        "initialSfen": "6k2/9/9/6G2/9/9/9/9/9 b 2GS 1"
       },
       {
         "id": 19,
         "title": "第19問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8k/9/8P/9/9/9/9/9/9 b RSr2b4g3s4n4l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "1kg2R3/9/2+P6/9/9/9/9/9/9 b r2b3g4s4n4l17p 1"
       },
       {
         "id": 20,
         "title": "第20問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8k/9/7P1/9/9/9/9/9/9 b RSr2b4g3s4n4l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "5k1nl/6g2/4Pgspp/5pp2/9/9/9/9/9 b RGr2bg3s3n3l13p 1"
       },
       {
         "id": 21,
         "title": "第21問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nl/5G1k1/6ppp/9/9/9/9/9/9 b GS2r2b2g3s3n3l15p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "5k3/6g2/3S1pp2/7R1/9/9/9/9/9 b Gr2b2g3s4n4l16p 1"
       },
       {
         "id": 22,
         "title": "第22問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/5G1k1/6spp/9/9/9/9/9/9 b GS2r2b2g2s4n3l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "6Rnl/8k/5S1pp/9/9/9/9/9/9 b Gr2b3g3s3n3l16p 1"
       },
       {
         "id": 23,
         "title": "第23問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7G1/8k/9/6s2/9/9/9/9/9 b RGr2b2g3s4n4l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "7nl/6k2/4+P1pp1/8p/9/9/9/9/9 b Rr2b4g4s3n3l14p 1"
       },
       {
         "id": 24,
         "title": "第24問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7G1/8k/9/7g1/9/9/9/9/9 b RGr2bg4s4n4l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "6pk1/9/6+P1p/9/9/9/9/9/9 b L2r2b4g4s4n3l15p 1"
       },
       {
         "id": 25,
         "title": "第25問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8k/9/7P1/6S2/9/9/9/9/9 b SL2r2b4g2s4n3l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "7nl/3G1kg2/4ppsp1/6p1p/9/9/9/9/9 b RGr2bg3s3n3l13p 1"
       },
       {
         "id": 26,
         "title": "第26問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8k/6s2/7P1/9/9/9/9/9/9 b SL2r2b4g2s4n3l17p 1"
+        "description": "持ち駒の角・金・銀を使って詰ましてください。",
+        "initialSfen": "7nl/7k1/5+P1p1/8p/9/9/9/9/9 b BGS"
       },
       {
         "id": 27,
         "title": "第27問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6p1k/9/9/7N1/9/9/9/9/9 b RLr2b4g4s3n3l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "7nl/4R1gk1/4Bppp1/8p/7P1/9/9/9/9 b SPrb3g3s3n3l12p 1"
       },
       {
         "id": 28,
         "title": "第28問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5g2k/7p1/8p/7N1/9/9/9/9/9 b RLr2b3g4s3n3l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "ln7/kSs6/1pp6/p1N6/1P7/9/9/9/9 b G2r2b3g2s2n3l14p 1"
       },
       {
         "id": 29,
         "title": "第29問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/7k1/7sp/5pL2/9/9/9/9/9 b BG2rb3g3s4n2l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "ln7/k1s6/1pp6/p1N6/9/P1P6/9/9/9 b BGL2rb3g3s2n2l13p 1"
       },
       {
         "id": 30,
         "title": "第30問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/7k1/7gp/6L2/9/9/9/9/9 b BG2rb2g4s4n2l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "7nl/6k2/4Sppp1/8p/9/9/9/9/9 b BGN2rb3g3s2n3l14p 1"
       },
       {
         "id": 31,
         "title": "第31問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/7k1/5Bnpp/9/9/9/9/9/9 b GN2rb3g4s2n3l16p 1"
-      },
-      {
-        "id": 32,
-        "title": "第32問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/7k1/5Bnbp/9/9/9/9/9/9 b GN2r3g4s2n3l17p 1"
-      },
-      {
-        "id": 33,
-        "title": "第33問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7n1/9/5pBk1/9/9/9/9/9/9 b GS2rb3g3s3n4l17p 1"
-      },
-      {
-        "id": 34,
-        "title": "第34問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7n1/6p2/6Bk1/9/9/9/9/9/9 b GS2rb3g3s3n4l17p 1"
-      },
-      {
-        "id": 35,
-        "title": "第35問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/7kl/9/6P2/9/9/9/9/9 b GS2r2b3g3s4n3l17p 1"
-      },
-      {
-        "id": 36,
-        "title": "第36問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/7kl/8g/6P2/9/9/9/9/9 b GS2r2b2g3s4n3l17p 1"
-      },
-      {
-        "id": 37,
-        "title": "第37問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/8k/9/8S/9/9/9/9/9 b GN2r2b3g3s3n3l18p 1"
-      },
-      {
-        "id": 38,
-        "title": "第38問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6s1l/8k/9/8S/9/9/9/9/9 b GN2r2b3g2s3n3l18p 1"
-      },
-      {
-        "id": 39,
-        "title": "第39問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6l1l/7k1/9/7s1/9/9/9/9/9 b 2G2r2b2g3s4n2l18p 1"
-      },
-      {
-        "id": 40,
-        "title": "第40問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/7k1/9/7S1/5b3/9/9/9/9 b 2G2rb2g3s4n4l18p 1"
-      },
-      {
-        "id": 41,
-        "title": "第41問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/5G1k1/6gpp/9/9/9/9/9/9 b BG2rbg4s4n3l16p 1"
-      },
-      {
-        "id": 42,
-        "title": "第42問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/5G1k1/6bpp/9/9/9/9/9/9 b BG2r2g4s4n3l16p 1"
-      },
-      {
-        "id": 43,
-        "title": "第43問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6knl/4r4/5+R3/9/9/9/9/9/9 b 2G2b2g4s3n3l18p 1"
-      },
-      {
-        "id": 44,
-        "title": "第44問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5p1nl/7k1/5R3/6r2/9/9/9/9/9 b 2G2b2g4s3n3l17p 1"
-      },
-      {
-        "id": 45,
-        "title": "第45問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/7k1/9/6SP1/7r1/9/9/9/9 b Gr2b3g3s4n4l17p 1"
-      },
-      {
-        "id": 46,
-        "title": "第46問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/8k/6G2/5b3/9/9/9/9/9 b G2rb2g4s4n4l18p 1"
-      },
-      {
-        "id": 47,
-        "title": "第47問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5+B2l/5sSk1/6p1p/9/9/9/9/9/9 b 2rb4g2s4n3l16p 1"
-      },
-      {
-        "id": 48,
-        "title": "第48問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5+B2l/5gSk1/6p1p/9/9/9/9/9/9 b 2rb3g3s4n3l16p 1"
-      },
-      {
-        "id": 49,
-        "title": "第49問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6b1l/8k/6R2/9/9/9/9/9/9 b Grb3g4s4n3l18p 1"
-      },
-      {
-        "id": 50,
-        "title": "第50問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6r1l/8k/6R2/9/9/9/9/9/9 b G2b3g4s4n3l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "6knl/4R1g2/6ppp/9/9/9/9/9/9 b SNr2b3g3s2n3l15p 1"
       }
     ],
-    "timestamp": 1781955760697
+    "timestamp": 1790063350676
   },
   {
-    "id": "1779558483551",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰② (2026/5/24)",
-    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰②",
+    "id": "1790063254761",
+    "title": "©kiryoアプリ　厳選詰将棋② (2026/9/22)",
+    "appTitle": "©kiryoアプリ　厳選詰将棋②",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=12-2",
     "problems": [
       {
         "id": 1,
         "title": "第1問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5R3/8k/7p1/6N2/9/9/9/9/9 b Gr2b3g4s3n4l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "+R8/p8/kp7/9/1P7/9/9/9/9 b SLr2b4g3s4n3l15p 1"
       },
       {
         "id": 2,
         "title": "第2問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5R3/8k/9/6N2/9/9/9/9/9 b Gr2b3g4s3n4l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "l1S6/1R7/kp7/9/1P7/9/9/9/9 b Gr2b3g3s4n3l16p 1"
       },
       {
         "id": 3,
         "title": "第3問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/7Bk/6S2/9/9/9/9/9/9 b G2rb3g3s4n4l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "7+R1/7g1/5p1k1/9/9/7S1/9/9/9 b Gr2b2g3s4n4l17p 1"
       },
       {
         "id": 4,
         "title": "第4問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/8k/6S2/9/9/9/9/9/9 b GS2r2b3g2s4n4l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "5R1nn/7k1/6Ppp/9/9/9/9/9/9 b r2b4g4s2n4l15p 1"
       },
       {
         "id": 5,
         "title": "第5問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7s1/8k/7R1/7Pp/9/9/9/9/9 b Gr2b3g3s4n4l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "9/6G1k/7s1/9/9/9/9/9/9 b RGr2b2g3s4n4l18p 1"
       },
       {
         "id": 6,
         "title": "第6問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6B1s/8k/9/7Pp/9/9/9/9/9 b G2rb3g3s4n4l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "ln1k5/1G1g1R3/pppp5/9/9/9/9/9/9 b SNr2b2g3s2n3l14p 1"
       },
       {
         "id": 7,
         "title": "第7問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7k1/6R1g/6P2/9/9/9/9/9/9 b Gr2b2g4s4n4l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "3R3nl/5kg2/4Ppspp/6p2/9/9/9/9/9 b Brb3g3s3n3l13p 1"
       },
       {
         "id": 8,
         "title": "第8問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7k1/8g/6P1B/9/9/9/9/9/9 b G2rb2g4s4n4l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "lnB6/k8/1p7/p1p6/9/9/9/9/9 b GN2rb3g4s2n3l15p 1"
       },
       {
         "id": 9,
         "title": "第9問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5p1r1/6+B1k/9/9/9/9/9/9/9 b RGb3g4s4n4l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "5g2l/7k1/4ppnpp/9/9/9/9/9/9 b GN2r2b2g4s2n3l14p 1"
       },
       {
         "id": 10,
         "title": "第10問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5p1r1/5B1k1/7pp/9/9/9/9/9/9 b RGb3g4s4n4l15p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "5g2l/4g1k2/5pnpp/9/9/9/9/9/9 b RGNr2bg4s2n3l15p 1"
       },
       {
         "id": 11,
         "title": "第11問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5Bg2/8k/9/7pp/7N1/9/9/9/9 b G2rb2g4s3n4l16p 1"
+        "description": "どこにおびき寄せる？",
+        "initialSfen": "7nk/6Gsl/7pp/9/8N/9/9/9/9 b S2r2b3g2s2n3l16p 1"
       },
       {
         "id": 12,
         "title": "第12問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7g1/8k/9/7pp/6N2/9/9/9/9 b GS2r2b2g3s3n4l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "4R1gnk/6Gsl/5G1pp/9/9/9/9/9/9 b r2bg3s3n3l16p 1"
       },
       {
         "id": 13,
         "title": "第13問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nl/5S1k1/5G1pp/9/9/9/9/9/9 b G2r2b2g3s3n3l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "2s2+R3/lk7/pppp5/9/9/9/9/9/9 b BGNrb3g3s3n3l14p 1"
       },
       {
         "id": 14,
         "title": "第14問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nl/7k1/4BG1pp/9/9/9/9/9/9 b G2rb2g4s3n3l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "ln3R3/1skgg4/pp1pp4/2p6/3N5/9/9/9/9 b BGPrbg3s2n3l12p 1"
       },
       {
         "id": 15,
         "title": "第15問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5R2l/7k1/6p1p/7N1/9/9/9/9/9 b Gr2b3g4s3n3l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "6k2/5g3/6+P2/9/9/9/9/9/9 b GN2r2b2g4s3n4l17p 1"
       },
       {
         "id": 16,
         "title": "第16問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5R2l/7k1/8p/7n1/8P/9/9/9/9 b Gr2b3g4s3n3l16p 1"
+        "description": "持ち駒の金を使って詰ましてください。",
+        "initialSfen": "9/6Sk1/5+P3/9/9/9/9/9/9 b G 1"
       },
       {
         "id": 17,
         "title": "第17問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7n1/7k1/7pp/5b1N1/9/9/9/9/9 b BG2r3g4s2n4l16p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "8l/7k1/5+P1pp/9/9/9/9/9/9 b 2S2r2b4g2s4n3l15p 1"
       },
       {
         "id": 18,
         "title": "第18問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7n1/7k1/6bp1/7N1/9/9/9/9/9 b BG2r3g4s2n4l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "9/6g2/6spk/6p2/8p/7P1/9/8R/8L b r2b3g3s4n3l14p 1"
       },
       {
         "id": 19,
         "title": "第19問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6k2/5g1R1/7P1/9/9/9/9/9/9 b Gr2b2g4s4n4l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "4R2nl/7k1/5gspp/5pp2/9/9/9/7R1/9 b G2b2g3s3n3l14p 1"
       },
       {
         "id": 20,
         "title": "第20問",
-        "description": "かんたん３手詰",
-        "initialSfen": "4sgk2/8B/7P1/9/9/9/9/9/9 b G2rb2g3s4n4l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "3R1Sknl/6g2/4pppp1/8p/9/9/9/9/9 b Brb3g3s3n3l13p 1"
       },
       {
         "id": 21,
         "title": "第21問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6+Bnl/8k/9/9/9/9/9/9/9 b GS2rb3g3s3n3l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "4+Rg1n+B/6k2/5p1p1/6p1p/9/9/9/9/9 b Grb2g4s3n4l14p 1"
       },
       {
         "id": 22,
         "title": "第22問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5R+Bnl/8k/7s1/9/9/9/9/9/9 b Grb3g3s3n3l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "5g1n+B/4g1kS1/5p1p1/4p1p1p/9/9/9/9/9 b Rrb2g3s3n4l13p 1"
       },
       {
         "id": 23,
         "title": "第23問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6bnL/8k/6NR1/7g1/9/9/9/9/9 b Grb2g4s2n3l18p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "6knl/3+R1g3/7pp/9/9/9/9/9/9 b GSr2b2g3s3n3l16p 1"
       },
       {
         "id": 24,
         "title": "第24問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/6B1k/6N1p/7g1/9/9/9/9/9 b G2rb2g4s3n3l17p 1"
-      },
-      {
-        "id": 25,
-        "title": "第25問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6g2/6+rk1/8R/8L/9/9/9/9/9 b S2b3g3s4n3l18p 1"
-      },
-      {
-        "id": 26,
-        "title": "第26問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6gk1/8R/9/8L/9/9/9/9/9 b Sr2b3g3s4n3l18p 1"
-      },
-      {
-        "id": 27,
-        "title": "第27問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nl/8k/6R2/6N2/9/9/9/9/9 b Sr2b4g3s2n3l18p 1"
-      },
-      {
-        "id": 28,
-        "title": "第28問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6Rn1/7kS/5P2p/9/9/9/9/9/9 b Sr2b4g2s3n4l16p 1"
-      },
-      {
-        "id": 29,
-        "title": "第29問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7kl/4+R4/9/9/9/9/9/9/9 b 2Sr2b4g2s4n3l18p 1"
-      },
-      {
-        "id": 30,
-        "title": "第30問",
-        "description": "５手詰めです",
-        "initialSfen": "4pk3/8R/9/9/9/9/9/9/9 b 2Sr2b4g2s4n4l17p 1"
-      },
-      {
-        "id": 31,
-        "title": "第31問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7+RG/9/8k/6g2/9/9/9/9/9 b Gr2bg4s4n4l18p 1"
-      },
-      {
-        "id": 32,
-        "title": "第32問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7+RG/9/8k/9/7g1/9/9/9/9 b Sr2b2g3s4n4l18p 1"
-      },
-      {
-        "id": 33,
-        "title": "第33問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7n1/6S1k/7R1/6s2/9/9/9/9/9 b Sr2b4gs3n4l18p 1"
-      },
-      {
-        "id": 34,
-        "title": "第34問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/6+B2/8k/6r2/9/9/9/9/9 b GSrb3g3s4n4l18p 1"
-      },
-      {
-        "id": 35,
-        "title": "第35問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/6G2/6B1k/6+b1p/9/9/9/9/9 b S2r3g3s4n4l17p 1"
-      },
-      {
-        "id": 36,
-        "title": "第36問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6G2/8k/6r2/7+R1/9/9/9/9/9 b S2b3g3s4n4l18p 1"
-      },
-      {
-        "id": 37,
-        "title": "第37問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7gk/6+R2/9/9/9/9/9/9/9 b 2Gr2bg4s4n4l18p 1"
-      },
-      {
-        "id": 38,
-        "title": "第38問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5r1sk/6+R2/9/9/9/9/9/9/9 b 2G2b2g3s4n4l18p 1"
-      },
-      {
-        "id": 39,
-        "title": "第39問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7gk/9/7+R1/9/9/9/9/9/9 b GSr2b2g3s4n4l18p 1"
-      },
-      {
-        "id": 40,
-        "title": "第40問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7gk/9/7R1/9/9/9/9/9/9 b RS2b3g3s4n4l18p 1"
-      },
-      {
-        "id": 41,
-        "title": "第41問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8k/6Sgl/9/9/9/9/9/9/9 b GN2r2b2g3s3n3l18p 1"
-      },
-      {
-        "id": 42,
-        "title": "第42問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8k/6S1l/7r1/5p3/9/9/9/9/9 b BGrb3g3s4n3l17p 1"
-      },
-      {
-        "id": 43,
-        "title": "第43問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6sks/9/7S1/9/9/9/9/9/9 b SP2r2b4g4n4l17p 1"
-      },
-      {
-        "id": 44,
-        "title": "第44問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6sks/9/7S1/9/9/9/9/9/9 b RSr2b4g4n4l18p 1"
-      },
-      {
-        "id": 45,
-        "title": "第45問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6gkl/6s2/7S1/9/9/9/9/9/9 b SN2r2b3gs3n3l18p 1"
-      },
-      {
-        "id": 46,
-        "title": "第46問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6bkl/6s2/7S1/9/9/9/9/9/9 b SN2rb4gs3n3l18p 1"
-      },
-      {
-        "id": 47,
-        "title": "第47問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/6+Bgk/9/9/9/9/9/9/9 b RGrb2g4s4n3l18p 1"
-      },
-      {
-        "id": 48,
-        "title": "第48問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/6+Bgk/9/9/9/9/9/9/9 b GS2rb2g3s4n3l18p 1"
-      },
-      {
-        "id": 49,
-        "title": "第49問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/6Bgk/8p/9/9/9/9/9/9 b 2S2rb3g2s4n3l17p 1"
-      },
-      {
-        "id": 50,
-        "title": "第50問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/6Bgk/6n1p/4B4/9/9/9/9/9 b S2r3g3s3n3l17p 1"
+        "description": "重要詰将棋です。",
+        "initialSfen": "lng3R2/1ksP5/1pppB4/p8/1P7/9/9/9/9 b Srb3g2s3n3l13p 1"
       }
     ],
-    "timestamp": 1779558483551
+    "timestamp": 1790063254771
   },
   {
-    "id": "1779558474020",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰③ (2026/5/24)",
-    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰③",
+    "id": "1790061300116",
+    "title": "©kiryoアプリ　ひと目の寄せ-詰将棋編① (2026/9/22)",
+    "appTitle": "©kiryoアプリ　ひと目の寄せ-詰将棋編①",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=13",
     "problems": [
       {
         "id": 1,
         "title": "第1問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6+B2/8k/7gp/9/9/9/9/9/9 b GN2rb2g4s3n4l17p 1"
+        "description": "第1問 基本の詰み形 頭金１ 基本中の基本です",
+        "initialSfen": "6k2/9/6G2/9/9/9/9/9/9 b G2r2b2g4s4n4l18p 1"
       },
       {
         "id": 2,
         "title": "第2問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6+B2/8k/7g1/9/9/9/9/9/9 b 2G2rbg4s4n4l18p 1"
+        "description": "第2問 基本の詰み形 頭金２ 頭金の連続で",
+        "initialSfen": "9/9/4k4/9/4G4/9/9/9/9 b 3G2r2b4s4n4l18p 1"
       },
       {
         "id": 3,
         "title": "第3問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6s1l/8k/6RPp/9/9/9/9/9/9 b Gr2b3g3s4n3l16p 1"
+        "description": "第3問 基本の詰み形 金銀の使い方１ 尻金の詰み",
+        "initialSfen": "4R3l/5gk2/5pppp/9/9/9/9/9/9 b Gr2b2g4s4n3l14p 1"
       },
       {
         "id": 4,
         "title": "第4問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6g1l/8k/6RLp/6sP1/9/9/9/9/9 b Sr2b3g2s4n2l16p 1"
+        "description": "第4問 基本の詰み形 金銀の使い方２ ３手詰。打つ順番は？",
+        "initialSfen": "7kl/9/6Ppp/9/9/9/9/9/9 b GS2r2b3g3s4n3l15p 1"
       },
       {
         "id": 5,
         "title": "第5問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7k1/7g1/6+B2/9/9/9/9/9/9 b RGrb2g4s4n4l18p 1"
+        "description": "第5問 基本の詰み形 金銀の使い方３ ２三歩がいない場合は",
+        "initialSfen": "7kl/9/6P1p/9/9/9/9/9/9 b GS2r2b3g3s4n3l16p 1"
       },
       {
         "id": 6,
         "title": "第6問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/7gk/6+B2/9/9/9/9/9/9 b RSrb3g3s4n4l18p 1"
+        "description": "第6問 基本の詰み形 金銀の使い方４ 頭金を狙いに",
+        "initialSfen": "7nl/7k1/5G1pp/9/9/9/9/9/9 b GS2r2b2g3s3n3l16p 1"
       },
       {
         "id": 7,
         "title": "第7問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6k2/6g2/5+B1P1/9/9/9/9/9/9 b 2S2rb3g2s4n4l17p 1"
+        "description": "第7問 基本の詰み形 金銀の使い方５ ５手詰。金はトドメに（３手）",
+        "initialSfen": "7nl/7k1/9/6S1p/9/9/9/9/9 b GS2r2b3g2s3n3l17p 1"
       },
       {
         "id": 8,
         "title": "第8問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6k2/9/5P+b+B1/9/9/9/9/9/9 b 2S2r4g2s4n4l17p 1"
+        "description": "第8問 基本の詰み形 成る１ 大駒は離して打て",
+        "initialSfen": "8k/6n2/7P1/9/9/9/9/9/9 b B2rb4g4s3n4l17p 1"
       },
       {
         "id": 9,
         "title": "第9問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8k/6B1l/7+r1/7B1/9/9/9/9/9 b Gr3g4s4n3l18p 1"
+        "description": "第9問 基本の詰み形 成る２ 前問の形にする捨て駒",
+        "initialSfen": "7k1/6n2/7P1/9/9/9/9/9/9 b RBrb4g4s3n4l17p 1"
       },
       {
         "id": 10,
         "title": "第10問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6k2/9/5+B1+r1/7B1/9/9/9/9/9 b Gr3g4s4n4l18p 1"
+        "description": "第10問 基本の詰み形 桂の使い方 桂の特性（３手）",
+        "initialSfen": "8k/6S1l/9/9/9/9/9/9/9 b BN2rb4g3s3n3l18p 1"
       },
       {
         "id": 11,
         "title": "第11問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7k1/6+b2/6Bp1/5R3/9/9/9/9/9 b Gr3g4s4n4l17p 1"
+        "description": "第11問 基本の詰み形 逃げ道をふさぐ１ 上部に逃がさない",
+        "initialSfen": "7nl/6GSk/6pp1/8p/9/9/9/9/9 b L2r2b3g3s3n2l15p 1"
       },
       {
         "id": 12,
         "title": "第12問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7G1/6+b1k/9/5+R3/4B4/9/9/9/9 b r3g4s4n4l18p 1"
+        "description": "第12問 基本の詰み形 逃げ道をふさぐ２ 今までの手筋の応用です",
+        "initialSfen": "7nl/7k1/4BSpp1/8p/9/9/9/9/9 b GL2rb3g3s3n2l15p 1"
       },
       {
         "id": 13,
         "title": "第13問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6kn1/6g2/6B2/9/9/9/9/9/9 b GS2rb2g3s3n4l18p 1"
+        "description": "第13問 基本の詰み形 逃げ道をふさぐ３ ８四に逃がさないために",
+        "initialSfen": "lnB6/k8/1p7/p1p6/9/9/9/9/9 b GN2rb3g4s2n3l15p 1"
       },
       {
         "id": 14,
         "title": "第14問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6kn1/6g2/6B2/9/9/9/9/9/9 b GN2rb2g4s2n4l18p 1"
+        "description": "第14問 基本の詰み形 逃げ道をふさぐ４ 飛車を逆用します",
+        "initialSfen": "6k2/3r5/5+BNpp/9/9/9/9/9/9 b Srb4g3s3n4l16p 1"
       },
       {
         "id": 15,
         "title": "第15問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7R1/8k/6+b2/8S/9/9/9/9/9 b Grb3g3s4n4l18p 1"
+        "description": "第15問 基本の詰み形 守りをそらす１ 金の守りをそらします",
+        "initialSfen": "6k2/5g3/6G2/9/9/9/9/9/9 b GN2r2bg4s3n4l18p 1"
       },
       {
         "id": 16,
         "title": "第16問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7Rl/8k/6b1p/9/9/9/9/9/9 b GNrb3g4s3n3l17p 1"
+        "description": "第16問 基本の詰み形 守りをそらす２ 前問の応用です",
+        "initialSfen": "6k2/6g2/6G2/9/9/9/9/9/9 b 2GN2r2bg4s2n4l18p 1"
       },
       {
         "id": 17,
         "title": "第17問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/6S+bk/7R1/9/9/9/9/9/9 b Srb4g2s4n4l18p 1"
+        "description": "第17問 基本の詰み形 守りをそらす３ やはり金頭桂の形にします（３手）",
+        "initialSfen": "3gkg3/9/3+P1+P3/9/9/9/9/9/9 b GNP2r2bg4s3n4l15p 1"
       },
       {
         "id": 18,
         "title": "第18問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/6B+bk/9/6sR1/9/9/9/9/9 b Sr4g2s4n4l18p 1"
+        "description": "第18問 基本の詰み形 一間龍１ 裾銀の詰み",
+        "initialSfen": "ln7/1kg+R5/pppp5/9/9/9/9/9/9 b Sr2b3g3s3n3l14p 1"
       },
       {
         "id": 19,
         "title": "第19問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7R1/7bk/9/7P1/9/9/9/9/9 b Rb4g4s4n4l17p 1"
+        "description": "第19問 基本の詰み形 一間龍２ 「送りの手筋」と呼ばれています",
+        "initialSfen": "ln7/2ks+R4/pppp5/9/9/9/9/9/9 b Gr2b3g3s3n3l14p 1"
       },
       {
         "id": 20,
         "title": "第20問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7+Rn/9/7sk/9/7P1/9/9/9/9 b R2b4g3s3n4l17p 1"
+        "description": "第20問 基本の詰み形 一間龍３ 龍でなく飛車の場合は（３手）",
+        "initialSfen": "ln7/2ksR4/pppp5/9/9/9/9/9/9 b 2Gr2b2g3s3n3l14p 1"
       },
       {
         "id": 21,
         "title": "第21問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7R1/6B2/8k/7g1/8p/9/9/9/9 b Lrb3g4s4n3l17p 1"
+        "description": "第21問 基本の詰み形 一間龍４ ６一銀では詰みません",
+        "initialSfen": "ln7/2kg+R4/pppp5/9/9/9/9/9/9 b SNr2b3g3s2n3l14p 1"
       },
       {
         "id": 22,
         "title": "第22問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7+R1/6B2/8k/7g1/9/9/9/9/9 b Nrb3g4s3n4l18p 1"
+        "description": "第22問 基本の詰み形 下から追う１ 上に逃がさないためには？",
+        "initialSfen": "+R8/p8/kp7/9/1P7/9/9/9/9 b SLr2b4g3s4n3l15p 1"
       },
       {
         "id": 23,
         "title": "第23問",
-        "description": "本の123番。少し難しめかも。",
-        "initialSfen": "7kl/6g2/8R/5+b1N1/9/9/9/9/9 b Grb2g4s3n3l18p 1"
+        "description": "第23問 基本の詰み形 下から追う２ 前問の応用編です",
+        "initialSfen": "l1R6/k8/1p7/9/1P7/9/9/9/9 b 2Sr2b4g2s4n3l16p 1"
       },
       {
         "id": 24,
         "title": "第24問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8k/6sg1/6R2/6N2/9/9/9/9/9 b Gr2b2g3s3n4l18p 1"
+        "description": "第24問 基本の詰み形 下から追う３ 龍の力で逃がさない",
+        "initialSfen": "9/4R4/5p3/7k1/9/7S1/9/9/9 b Gr2b3g3s4n4l17p 1"
       },
       {
         "id": 25,
         "title": "第25問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/8k/6Sp1/8p/9/9/9/9/9 b Rr2b4g3s4n4l16p 1"
+        "description": "第25問 基本の詰み形 下から追う４ 前問の応用です",
+        "initialSfen": "7+R1/7g1/5p1k1/9/9/7S1/9/9/9 b Gr2b2g3s4n4l17p 1"
       },
       {
         "id": 26,
         "title": "第26問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/9/6Spk/8p/9/9/9/9/9 b B2rb4g3s4n4l16p 1"
+        "description": "第26問 基本の詰み形 下から追う５ 金の打ち場所は",
+        "initialSfen": "l1S6/1R7/kp7/9/1P7/9/9/9/9 b Gr2b3g3s4n3l16p 1"
       },
       {
         "id": 27,
         "title": "第27問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5g1k1/9/5p2S/9/9/9/9/9/9 b Rr2b3g3s4n4l17p 1"
+        "description": "第27問 基本の詰み形 玉を呼ぶ 玉をおびき寄せます",
+        "initialSfen": "6Rnl/8k/5S1pp/9/9/9/9/9/9 b Gr2b3g3s3n3l16p 1"
       },
       {
         "id": 28,
         "title": "第28問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7kl/9/7S1/9/9/9/9/9/9 b B2rb4g3s4n3l18p 1"
+        "description": "第28問 基本の詰み形 死角を作る 馬が邪魔ですが",
+        "initialSfen": "5p1k1/5R3/8+b/9/9/9/9/9/9 b RGb3g4s4n4l17p 1"
       },
       {
         "id": 29,
         "title": "第29問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/8k/9/7Ls/9/9/9/9/9 b Rr2b4g3s4n3l18p 1"
+        "description": "第29問 基本の詰み形 開き王手 開き王手を狙って",
+        "initialSfen": "5R2l/7k1/7p1/6psp/9/9/9/9/9 b Brb4g3s4n3l15p 1"
       },
       {
         "id": 30,
         "title": "第30問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5gk2/9/6S2/9/9/9/9/9/9 b B2rb3g3s4n4l18p 1"
-      },
+        "description": "第30問 基本の詰み形 空間を作る 頭金を作る工夫",
+        "initialSfen": "7nl/6k2/4Sppp1/8p/9/9/9/9/9 b BGN2rb3g3s2n3l14p 1"
+      }
+    ],
+    "timestamp": 1790061300116
+  },
+  {
+    "id": "1790061292602",
+    "title": "©kiryoアプリ　ひと目の寄せ-詰将棋編② (2026/9/22)",
+    "appTitle": "©kiryoアプリ　ひと目の寄せ-詰将棋編②",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=13-2",
+    "problems": [
       {
         "id": 31,
         "title": "第31問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7R1/9/8k/8p/9/9/9/9/9 b Brb4g4s4n4l17p 1"
+        "description": "第31問 実戦の詰み 端玉１ 押さえの歩がいます（３手）",
+        "initialSfen": "8l/9/7pk/6p1p/9/6P1P/7P1/9/9 b GSN2r2b3g3s3n3l12p 1"
       },
       {
         "id": 32,
         "title": "第32問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7R1/8l/8k/9/9/9/9/9/9 b Brb4g4s4n3l18p 1"
+        "description": "第32問 実戦の詰み 端玉２ 角を打つには",
+        "initialSfen": "ln7/k1G6/1pp6/p8/9/P1P6/9/9/9 b BGL2rb2g4s3n2l13p 1"
       },
       {
         "id": 33,
         "title": "第33問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6g1k/9/7S1/9/9/9/9/9/9 b L2r2b3g3s4n3l18p 1"
+        "description": "第33問 実戦の詰み 端玉３ ナナメ駒がないときは（３手）",
+        "initialSfen": "ln7/k1G6/1ppp5/p8/9/P1P6/9/9/9 b 2RGrb2g4s3n3l12p 1"
       },
       {
         "id": 34,
         "title": "第34問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5+B1nl/7k1/6p2/9/9/9/9/9/9 b L2rb4g4s3n2l17p 1"
+        "description": "第34問 実戦の詰み 早囲い１ 金で追いかける形",
+        "initialSfen": "ln1g5/2ks2R2/pppp1B3/9/9/9/9/9/9 b rb3g3s3n3l14p 1"
       },
       {
         "id": 35,
         "title": "第35問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8k/7R1/6SP1/9/9/9/9/9/9 b r2b4g3s4n4l17p 1"
+        "description": "第35問 実戦の詰み 早囲い２ これも基本の筋（３手）",
+        "initialSfen": "ln1g5/2ks1R3/pppp+P4/9/9/9/9/9/9 b GNr2b2g3s2n3l13p 1"
       },
       {
         "id": 36,
         "title": "第36問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/7Bk/6S2/9/9/9/9/9/9 b G2rb3g3s4n4l18p 1"
+        "description": "第36問 実戦の詰み 居飛車急戦形１ バッサリいきましょう",
+        "initialSfen": "7nl/4R1gk1/4Bppp1/8p/9/9/9/9/9 b SPrb3g3s3n3l13p 1"
       },
       {
         "id": 37,
         "title": "第37問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nl/9/7Bk/6S1p/9/9/9/9/9 b G2rb3g3s3n3l17p 1"
+        "description": "第37問 実戦の詰み 居飛車急戦形２ ３一に逃がさないように",
+        "initialSfen": "7nl/3G1kg2/4ppsp1/6p1p/9/9/9/9/9 b RGr2bg3s3n3l13p 1"
       },
       {
         "id": 38,
         "title": "第38問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6bnl/8k/6pR1/6S1p/9/9/9/9/9 b Grb3g3s3n3l16p 1"
+        "description": "第38問 実戦の詰み 居飛車急戦形３ 開き王手の詰み",
+        "initialSfen": "4k1snl/2G3g2/3ppp1pp/6p2/9/9/9/9/9 b RBrb2g3s3n3l12p 1"
       },
       {
         "id": 39,
         "title": "第39問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/6sRl/6G1k/7pp/9/9/9/9/9 b Sr2b3g2s4n3l16p 1"
+        "description": "第39問 実戦の詰み 居飛車急戦形４ 端から逃がさないように",
+        "initialSfen": "3R1Sknl/6g2/4pppp1/8p/9/9/9/9/9 b Brb3g3s3n3l13p 1"
       },
       {
         "id": 40,
         "title": "第40問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7R1/7Gl/8k/6bpp/9/9/9/9/9 b Srb3g3s4n3l16p 1"
+        "description": "第40問 実戦の詰み 居飛車急戦形５ 角がよく利いています",
+        "initialSfen": "2R1gk1nl/5sg2/5p1p1/3N2p1p/9/9/2B6/9/9 b Srb2g2s2n3l14p 1"
       },
       {
         "id": 41,
         "title": "第41問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7r1/6G1k/7pB/8P/9/9/9/9/9 b Lrb3g4s4n3l16p 1"
+        "description": "第41問 実戦の詰み 舟囲い系１ 金をどこに使いますか（３手）",
+        "initialSfen": "4+Rg1n+B/6k2/5p1p1/6p1p/9/9/9/9/9 b Grb2g4s3n4l14p 1"
       },
       {
         "id": 42,
         "title": "第42問",
-        "description": "かんたん３手詰",
-        "initialSfen": "4r3k/6+R1B/9/9/9/9/9/9/9 b Lb4g4s4n3l18p 1"
+        "description": "第42問 実戦の詰み 舟囲い系２ 桂でなく香の場合は（３手）",
+        "initialSfen": "4B2nl/6k2/5p1p1/6p1p/9/9/9/9/9 b BGL2r3g4s3n2l14p 1"
       },
       {
         "id": 43,
         "title": "第43問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nl/6g1k/6G1p/7L1/9/9/9/9/9 b N2r2b2g4s2n2l17p 1"
+        "description": "第43問 実戦の詰み 舟囲い系３ とん死の筋にご注意",
+        "initialSfen": "5g2l/4g1k2/5pnpp/9/9/9/9/9/9 b RGNr2bg4s2n3l15p 1"
       },
       {
         "id": 44,
         "title": "第44問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6+rnl/6b1k/6G1p/7L1/9/9/9/9/9 b Nrb3g4s2n2l17p 1"
+        "description": "第44問 実戦の詰み 舟囲い系４ この筋もうっかりしやすい",
+        "initialSfen": "5g1n+B/4g1kS1/5p1p1/4p1p1p/9/9/9/9/9 b Rrb2g3s3n4l13p 1"
       },
       {
         "id": 45,
         "title": "第45問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/8l/6S1k/7Lb/9/9/9/9/9 b G2rb3g3s4n2l18p 1"
+        "description": "第45問 実戦の詰み 舟囲い系５ 上に逃がさないためには…",
+        "initialSfen": "3+R1g1nl/4g1k2/5p1p1/6N1p/9/9/9/9/9 b RGN2bg4sn3l15p 1"
       },
       {
         "id": 46,
         "title": "第46問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/6+b1l/6S1k/7Rp/9/9/9/9/9 b Grb3g3s4n3l17p 1"
+        "description": "第46問 実戦の詰み 舟囲い系６ 基本編に出てきた筋で（３手）",
+        "initialSfen": "7nl/6k2/4Sp1p1/6p1p/9/6PPP/9/9/9 b BGN2rb3g3s2n3l11p 1"
       },
       {
         "id": 47,
         "title": "第47問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6r1k/8B/9/7N1/9/9/9/9/9 b Grb3g4s3n4l18p 1"
+        "description": "第47問 実戦の詰み 矢倉系１ 飛香のロケット砲",
+        "initialSfen": "9/6g2/6spk/6p2/8p/7P1/9/8R/8L b r2b3g3s4n3l14p 1"
       },
       {
         "id": 48,
         "title": "第48問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5g1k1/7B1/5p3/6N2/9/9/9/9/9 b G2rb2g4s3n4l17p 1"
+        "description": "第48問 実戦の詰み 矢倉系２ 角が移動すれば…",
+        "initialSfen": "7nl/6gk1/5gs1p/5ppB1/8P/9/9/7R1/8L b Grbg3s3n2l14p 1"
       },
       {
         "id": 49,
         "title": "第49問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6g1l/6S1k/7R1/7P1/9/9/9/9/9 b r2b3g3s4n3l17p 1"
+        "description": "第49問 実戦の詰み 矢倉系３ どちらの飛車を切る？",
+        "initialSfen": "4R2nl/7k1/5gspp/5pp2/9/9/9/7R1/9 b G2b2g3s3n3l14p 1"
       },
       {
         "id": 50,
         "title": "第50問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5r2l/6S1k/7R1/7P1/9/9/9/9/9 b 2b4g3s4n3l17p 1"
+        "description": "第50問 実戦の詰み 矢倉系４ どこに何を打つ？（３手）",
+        "initialSfen": "7nl/5+P1k1/6s2/6ppp/9/9/9/9/9 b RGSr2b3g2s3n3l14p 1"
       }
     ],
-    "timestamp": 1779558474020
+    "timestamp": 1790061292602
   },
   {
-    "id": "1779554876149",
-    "title": "©kiryoアプリ　５秒で解きたい３手詰④ (2026/5/24)",
-    "appTitle": "©kiryoアプリ　５秒で解きたい３手詰④",
+    "id": "1790061271343",
+    "title": "©kiryoアプリ　ひと目の寄せ-詰将棋編③ (2026/9/22)",
+    "appTitle": "©kiryoアプリ　ひと目の寄せ-詰将棋編③",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=13-3",
+    "problems": [
+      {
+        "id": 51,
+        "title": "第51問",
+        "description": "第51問 実戦の詰み 矢倉系５ 桂のない形",
+        "initialSfen": "5+R2l/6gk1/5g1pp/5p3/7P1/9/9/9/9 b RBb2g4s4n3l14p 1"
+      },
+      {
+        "id": 52,
+        "title": "第52問",
+        "description": "第52問 実戦の詰み 矢倉系６ 金を取りたくなりますが",
+        "initialSfen": "5+B1nl/6gk1/5gsp1/5ppNp/9/9/9/9/9 b B2r2g3s2n3l14p 1"
+      },
+      {
+        "id": 53,
+        "title": "第53問",
+        "description": "第53問 実戦の詰み 矢倉系７ ２四歩を手抜かれました（３手）",
+        "initialSfen": "7nl/5bgk1/5gspp/5ppP1/9/6P2/6N1P/7R1/9 b BNr2g3sn3l11p 1"
+      },
+      {
+        "id": 54,
+        "title": "第54問",
+        "description": "第54問 実戦の詰み 矢倉系８ ペタペタと打ちます",
+        "initialSfen": "6knl/3+R2g2/5gspp/5pp2/9/9/9/9/9 b RG2bg3s3n3l14p 1"
+      },
+      {
+        "id": 55,
+        "title": "第55問",
+        "description": "第55問 実戦の詰み 美濃囲い系１ 基本の詰み",
+        "initialSfen": "ln1g5/1ks6/pppp5/9/4B4/9/9/9/9 b GN2rb2g3s2n3l14p 1"
+      },
+      {
+        "id": 56,
+        "title": "第56問",
+        "description": "第56問 実戦の詰み 美濃囲い系２ 端歩が突いてある場合は",
+        "initialSfen": "ln1g5/1ks6/1ppp5/p8/4B4/P1P6/9/9/9 b G2N2rb2g3sn3l12p 1"
+      },
+      {
+        "id": 57,
+        "title": "第57問",
+        "description": "第57問 実戦の詰み 美濃囲い系３ これも基本の形",
+        "initialSfen": "ln1g1R3/1ksG5/pppp5/9/9/9/9/9/9 b GSr2bg2s3n3l14p 1"
+      },
+      {
+        "id": 58,
+        "title": "第58問",
+        "description": "第58問 実戦の詰み 美濃囲い系４ 駒を取る詰み",
+        "initialSfen": "ln1+P5/1ks6/1pp6/p8/9/PPP6/9/9/9 b BG2rb3g3s3n3l11p 1"
+      },
+      {
+        "id": 59,
+        "title": "第59問",
+        "description": "第59問 実戦の詰み 美濃囲い系５ 角がない場合は（３手）",
+        "initialSfen": "ln7/1ks+P5/1pp6/p8/9/P1P6/9/9/9 b G2SL2r2b3gs3n2l12p 1"
+      },
+      {
+        "id": 60,
+        "title": "第60問",
+        "description": "第60問 実戦の詰み 美濃囲い系６ 両王手の筋（３手）",
+        "initialSfen": "lng2+R3/1ksP5/1pppB4/p8/9/P1P6/9/9/9 b Srb3g2s3n3l11p 1"
+      },
+      {
+        "id": 61,
+        "title": "第61問",
+        "description": "第61問 実戦の詰み 美濃囲い系７ 継ぎ桂の筋",
+        "initialSfen": "ln1g5/1ks6/1ppp5/p8/9/PNP6/1P7/9/9 b BGNL2rb2g3sn2l11p 1"
+      },
+      {
+        "id": 62,
+        "title": "第62問",
+        "description": "第62問 実戦の詰み 美濃囲い系８ 豊富な持駒で一気に詰ます（３手）",
+        "initialSfen": "ln1g1+R3/1ks6/pppp5/9/9/9/9/9/9 b RBGSb2g2s3n3l14p 1"
+      },
+      {
+        "id": 63,
+        "title": "第63問",
+        "description": "第63問 実戦の詰み 美濃囲い系９ 馬で攻める場合（３手）",
+        "initialSfen": "ln1g5/2k6/1pp2+B3/p2p5/2N6/PPP6/9/9/9 b S2rb3g3s2n3l11p 1"
+      },
+      {
+        "id": 64,
+        "title": "第64問",
+        "description": "第64問 実戦の詰み 穴熊１ 実戦でうっかりしないように",
+        "initialSfen": "7nk/6Gsl/7pp/9/8N/9/9/9/9 b S2r2b3g2s2n3l16p 1"
+      },
+      {
+        "id": 65,
+        "title": "第65問",
+        "description": "第65問 実戦の詰み 穴熊２ 王手を続けるには",
+        "initialSfen": "4R1gnk/6Gsl/5G1pp/9/9/9/9/9/9 b r2bg3s3n3l16p 1"
+      },
+      {
+        "id": 66,
+        "title": "第66問",
+        "description": "第66問 実戦の詰み 穴熊３ 小駒もうまく使って。（３手）",
+        "initialSfen": "kng1R+R3/lsG6/pppp5/9/9/9/9/9/9 b BLb2g3s3n2l14p 1"
+      },
+      {
+        "id": 67,
+        "title": "第67問",
+        "description": "第67問 実戦の詰み 右玉１ 送りの手筋で",
+        "initialSfen": "l8/2kg1R3/2ns5/ppppP4/9/9/9/9/9 b BGrb2g3s3n3l13p 1"
+      },
+      {
+        "id": 68,
+        "title": "第68問",
+        "description": "第68問 実戦の詰み 右玉２ 捨て駒の連続。（３手）",
+        "initialSfen": "l4R3/2kg5/2ns5/pppp5/9/9/9/9/9 b BGSrb2g2s3n3l14p 1"
+      },
+      {
+        "id": 69,
+        "title": "第69問",
+        "description": "第69問 実戦の詰み 金無双 金無双を詰ますには",
+        "initialSfen": "ln3R3/1skgg4/pp1pp4/2p6/3N5/9/9/9/9 b BGPrbg3s2n3l12p 1"
+      },
+      {
+        "id": 70,
+        "title": "第70問",
+        "description": "第70問 実戦の詰み 手掛かりなし 取っ掛かりのない形（３手）",
+        "initialSfen": "lnk6/9/pppp5/9/9/9/9/9/9 b RG2Sr2b3g2s3n3l14p 1"
+      }
+    ],
+    "timestamp": 1790061271343
+  },
+  {
+    "id": "1790060483977",
+    "title": "©kiryoアプリ　詰みの基本手筋① (2026/9/22)",
+    "appTitle": "©kiryoアプリ　詰みの基本手筋①",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=14",
     "problems": [
       {
         "id": 1,
         "title": "第1問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8k/6R1g/7Pp/9/9/9/9/9/9 b r2b3g4s4n4l16p 1"
+        "description": "頭金 基本手筋 絶対に覚えたいその１",
+        "initialSfen": "9/6k2/9/6G2/9/9/9/9/9 b 2G2r2bg4s4n4l18p 1"
       },
       {
         "id": 2,
         "title": "第2問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7Bk/8g/7Pp/9/9/9/9/9/9 b - 1"
+        "description": "腹金 基本手筋 絶対に覚えたいその２",
+        "initialSfen": "7nl/7k1/5+P1pp/9/9/9/9/9/9 b 2G2r2b2g4s3n3l14p 1"
       },
       {
         "id": 3,
         "title": "第3問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5+R1gk/9/7P1/9/9/9/9/9/9 b - 1"
+        "description": "頭金に持ち込む銀捨て 基本手筋 絶対に覚えたいその３",
+        "initialSfen": "7nl/7k1/5+P1pp/9/9/9/9/9/9 b GS2r2b3g3s3n3l14p 1"
       },
       {
         "id": 4,
         "title": "第4問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7gk/9/5+B1P1/9/9/9/9/9/9 b - 1"
+        "description": "つるし桂 基本手筋 絶対に覚えたいその19",
+        "initialSfen": "3gkg3/9/4+P4/9/9/9/9/9/9 b N2r2b2g4s3n4l17p 1"
       },
       {
         "id": 5,
         "title": "第5問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6+R1l/6Sgk/8p/9/9/9/9/9/9 b - 1"
+        "description": "角と桂のコビン攻め 基本手筋 絶対に覚えたいその15",
+        "initialSfen": "ln1g5/1ks6/ppp6/3B5/9/9/9/9/9 b GN2rb2g3s2n3l15p 1"
       },
       {
         "id": 6,
         "title": "第6問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6+Bgl/6Sgk/8p/9/9/9/9/9/9 b 2rb2g3s4n3l17p 1"
+        "description": "角＋退路封鎖 基本手筋 絶対に覚えたいその４",
+        "initialSfen": "7nl/7k1/5+P1p1/8p/9/9/9/9/9 b BGS2rb3g3s3n3l14p 1"
       },
       {
         "id": 7,
         "title": "第7問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7n1/5+R2g/6+B1k/9/9/9/9/9/9 b rb3g4s3n4l18p 1"
+        "description": "尻金 基本手筋 絶対に覚えたいその６",
+        "initialSfen": "5R3/7k1/5pppp/9/9/9/9/9/9 b Gr2b3g4s4n4l14p 1"
       },
       {
         "id": 8,
         "title": "第8問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6snl/7g1/8k/5B+B2/9/9/9/9/9 b 2r3g3s3n3l18p 1"
+        "description": "金で押していく手筋 基本手筋 絶対に覚えたいその７",
+        "initialSfen": "6knl/3+RG4/7pp/4r4/9/9/9/9/9 b 2b3g4s3n3l16p 1"
       },
       {
         "id": 9,
         "title": "第9問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7sk/7Rs/6+B2/9/9/9/9/9/9 b - 1"
+        "description": "一間龍 基本手筋 絶対に覚えたいその８",
+        "initialSfen": "7nl/4+Rgk2/7pp/9/9/9/9/9/9 b Gr2b2g4s3n3l16p 1"
       },
       {
         "id": 10,
         "title": "第10問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7sk/7Rr/6+B2/9/9/9/9/9/9 b - 1"
+        "description": "送りの手筋 基本手筋 絶対に覚えたいその10",
+        "initialSfen": "7nl/4+Rsk2/5pppp/9/9/9/9/9/9 b Gr2b3g3s3n3l14p 1"
       },
       {
         "id": 11,
         "title": "第11問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6s1l/6+Bsk/8p/7R1/9/9/9/9/9 b - 1"
+        "description": "一間龍応用編 基本手筋 絶対に覚えたいその９",
+        "initialSfen": "7nl/4+Rgk2/5pppp/9/9/9/9/9/9 b GNr2b2g4s2n3l14p 1"
       },
       {
         "id": 12,
         "title": "第12問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5R1sl/6+Bgk/8p/9/9/9/9/9/9 b - 1"
+        "description": "飛車の横利きを通す 基本手筋 絶対に覚えたいその11",
+        "initialSfen": "7n1/4Rsk1+P/5ppp1/9/9/9/9/9/9 b 2Gr2b2g3s3n4l14p 1"
       },
       {
         "id": 13,
         "title": "第13問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7+Rl/8s/8k/6B1p/9/9/9/9/9 b rb4g3s4n3l17p 1"
+        "description": "とどめの駒を入手 基本手筋 絶対に覚えたいその14",
+        "initialSfen": "1kg2R3/9/2+P6/9/9/9/9/9/9 b r2b3g4s4n4l17p 1"
       },
       {
         "id": 14,
         "title": "第14問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7+Rl/7ss/8k/6+B1p/9/9/9/9/9 b rb4g2s4n3l17p 1"
+        "description": "飛車でおびき出して金打ち 基本手筋 絶対に覚えたいその13",
+        "initialSfen": "5k1nl/6g2/4Pgspp/5pp2/9/9/9/9/9 b RGr2bg3s3n3l13p 1"
       },
       {
         "id": 15,
         "title": "第15問",
-        "description": "かんたん３手詰",
-        "initialSfen": "3R1gknl/3R2s2/5pppp/9/9/9/9/9/9 b 2b3g3s3n3l14p 1"
+        "description": "大駒の王手で退路封鎖 基本手筋 絶対に覚えたいその12",
+        "initialSfen": "5k3/6g2/3S1pp2/7R1/9/9/9/9/9 b Gr2b2g3s4n4l16p 1"
       },
       {
         "id": 16,
         "title": "第16問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5gknl/3R2s2/3B1pppp/9/9/9/9/9/9 b rb3g3s3n3l14p 1"
+        "description": "大駒は離して打て 基本手筋 絶対に覚えたいその16",
+        "initialSfen": "8k/6+P2/9/9/9/9/9/9/9 b B2rb4g4s4n4l17p 1"
       },
       {
         "id": 17,
         "title": "第17問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5B3/8k/6R1g/8p/9/9/9/9/9 b - 1"
+        "description": "下段の香に力あり 基本手筋 絶対に覚えたいその18",
+        "initialSfen": "6pk1/9/6+P1p/9/9/9/9/9/9 b L2r2b4g4s4n3l15p 1"
       },
       {
         "id": 18,
         "title": "第18問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5Bgk1/9/6R2/9/9/9/9/9/9 b - 1"
+        "description": "大駒は離して打て飛車編 基本手筋 絶対に覚えたいその17",
+        "initialSfen": "7nl/6k2/4+P1pp1/9/9/9/9/9/9 b Rr2b4g4s3n3l15p 1"
       },
       {
         "id": 19,
         "title": "第19問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6Rnl/6+Bgk/8p/9/9/9/9/9/9 b rb3g4s3n3l17p 1"
+        "description": "金頭桂 基本手筋 絶対に覚えたいその20",
+        "initialSfen": "7kl/6g2/7+P1/9/9/9/9/9/9 b GN2r2b2g4s3n3l17p 1"
       },
       {
         "id": 20,
         "title": "第20問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6gnl/6B1k/7Lp/6S2/9/9/9/9/9 b 2rb3g3s3n2l17p 1"
+        "description": "端に玉を追い込む 基本手筋 絶対に覚えたいその５",
+        "initialSfen": "9/6Sk1/5+P3/9/9/9/9/9/9 b G2r2b3g3s4n4l17p 1"
       },
       {
         "id": 21,
         "title": "第21問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nk/6Gnl/6bR1/9/9/9/9/9/9 b rb3g4s2n3l18p 1"
-      },
+        "description": "玉は下段に落とせ 重要手筋編 その９",
+        "initialSfen": "9/6G1k/7s1/9/9/9/9/9/9 b RGr2b2g3s4n4l18p 1"
+      }
+    ],
+    "timestamp": 1790060483977
+  },
+  {
+    "id": "1790060396158",
+    "title": "©kiryoアプリ　詰みの基本手筋② (2026/9/22)",
+    "appTitle": "©kiryoアプリ　詰みの基本手筋②",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=14-2",
+    "problems": [
       {
         "id": 22,
         "title": "第22問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5gsnl/5RS1k/7pp/9/9/9/9/9/9 b - 1"
+        "description": "玉を危険地帯に呼ぶ 重要手筋編 その14",
+        "initialSfen": "7+R1/9/8k/5b3/7P1/9/9/9/9 b Srb4g3s4n4l17p 1"
       },
       {
         "id": 23,
         "title": "第23問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5p1nl/5R1Sk/7pp/9/9/9/9/9/9 b r2b4g3s3n3l15p 1"
+        "description": "大駒の威力① 重要手筋編 その７",
+        "initialSfen": "6+Pnl/8k/6+B1p/6R2/9/9/9/9/9 b rb4g4s3n3l16p 1"
       },
       {
         "id": 24,
         "title": "第24問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/7Sk/6Bp1/9/8P/9/9/9/9 b 2rb4g3s4n3l16p 1"
+        "description": "香の特性を生かす 重要手筋編 その24",
+        "initialSfen": "9/8k/6+B2/9/7NP/9/9/9/9 b L2rb4g4s3n3l17p 1"
       },
       {
         "id": 25,
         "title": "第25問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/8k/6Spl/9/6B1P/9/9/9/9 b 2rb4g3s4n3l16p 1"
+        "description": "守備駒の守備力を弱める 重要手筋編 その13",
+        "initialSfen": "6gnl/4+Psk2/5p1p1/9/4B4/9/9/9/9 b GS2rb2g2s3n3l15p 1"
       },
       {
         "id": 26,
         "title": "第26問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/6+Blg/6+B1k/7p1/9/9/9/9/9 b - 1"
+        "description": "駒を打つ土台を作る 重要手筋編 その25",
+        "initialSfen": "5g1n1/6k2/7p+P/5R3/9/9/9/9/9 b RP2b3g4s3n4l15p 1"
       },
       {
         "id": 27,
         "title": "第27問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6snk/6Rl1/7S1/9/9/9/9/9/9 b - 1"
+        "description": "端から攻略、金銀の使い分け 重要手筋編 その23",
+        "initialSfen": "l3R4/1ks6/1ps6/9/1N7/9/9/9/9 b GSr2b3gs3n3l17p 1"
       },
       {
         "id": 28,
         "title": "第28問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/9/6Bpk/6+R1l/7n1/9/9/9/9 b - 1"
+        "description": "金は斜めに誘え 重要手筋編 その10",
+        "initialSfen": "8l/5+RS1k/6g1p/9/8P/9/9/9/9 b 2Nr2b3g3s3n3l15p 1"
       },
       {
         "id": 29,
         "title": "第29問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/6+Rgk/9/9/9/9/9/9/9 b G 1"
+        "description": "銀は千鳥に使え 重要手筋編 その11",
+        "initialSfen": "7kl/9/5Sspp/4+B4/9/9/9/9/9 b G2rb3g2s4n3l16p 1"
       },
       {
         "id": 30,
         "title": "第30問",
-        "description": "かんたん３手詰",
-        "initialSfen": "9/6+Rgk/9/7p1/9/9/9/9/9 b S 1"
+        "description": "上から押さえ込む 重要手筋編 その15",
+        "initialSfen": "6k1l/4+P4/8p/9/9/9/9/9/9 b RGr2b3g4s4n3l16p 1"
       },
       {
         "id": 31,
         "title": "第31問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7k1/5p1g1/7+R1/9/9/9/9/9/9 b G 1"
+        "description": "開き王手② 重要手筋編 その27",
+        "initialSfen": "9/6gk1/6sp1/8R/9/9/9/9/9 b BSrb3g2s4n4l17p 1"
       },
       {
         "id": 32,
         "title": "第32問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5g1k1/7g1/7+R1/9/9/9/9/9/9 b G 1"
+        "description": "開き王手③ 重要手筋編 その28",
+        "initialSfen": "7n1/4R+B2k/7P1/6b2/9/9/9/9/9 b r4g4s3n4l17p 1"
       },
       {
         "id": 33,
         "title": "第33問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6+Rs1/8k/9/8P/9/9/9/9/9 b Gr2b3g3s4n4l17p 1"
+        "description": "開き王手① 重要手筋編 その26",
+        "initialSfen": "3+R+B1knl/6g2/7pp/9/9/9/9/9/9 b 2Srb3g2s3n3l16p 1"
       },
       {
         "id": 34,
         "title": "第34問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6+Rs1/8k/7p1/8P/9/9/9/9/9 b Sr2b4g2s4n4l16p 1"
+        "description": "両王手② 重要手筋編 その30",
+        "initialSfen": "6sn1/8k/6+R2/5+B1r1/9/9/9/9/9 b Gb3g3s3n4l18p 1"
       },
       {
         "id": 35,
         "title": "第35問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nl/5Rg1k/8p/9/9/9/9/9/9 b - 1"
+        "description": "両王手① 重要手筋編 その29",
+        "initialSfen": "7k1/7g1/5S2+R/9/8N/8L/9/9/9 b r2b3g3s3n3l18p 1"
       },
       {
         "id": 36,
         "title": "第36問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/5Rs1k/7pp/9/9/9/9/9/9 b r2b4g3s4n3l16p 1"
+        "description": "端玉には端歩 重要手筋編 その12",
+        "initialSfen": "8l/6+P1k/7p1/5b2p/7PP/9/9/9/8L b G2rb3g4s4n2l13p 1"
       },
       {
         "id": 37,
         "title": "第37問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7kl/9/5R3/9/9/9/9/9/9 b G 1"
+        "description": "端歩と詰みの関係① 重要手筋編 その19",
+        "initialSfen": "ln1+P5/1ks6/1ppp5/p8/9/1P7/9/9/9 b G3S2r2b3g3n3l12p 1"
       },
       {
         "id": 38,
         "title": "第38問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7kl/5p3/5R3/9/9/9/9/9/9 b S 1"
+        "description": "端歩と詰みの関係② 重要手筋編 その20",
+        "initialSfen": "ln7/1k7/1p1+P5/9/p8/1P7/9/9/9 b G3S2r2b3gs3n3l14p 1"
       },
       {
         "id": 39,
         "title": "第39問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6+Rs1/8k/7p1/9/9/9/9/9/9 b RG 1"
+        "description": "桂の利きに呼び込む 重要手筋編 その22",
+        "initialSfen": "6s1+P/4+B1k2/5pn2/6N2/7P1/9/9/9/9 b Rrb4g3s2n4l15p 1"
       },
       {
         "id": 40,
         "title": "第40問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6+Rs1/8k/7pp/9/9/9/9/9/9 b 2G 1"
+        "description": "馬と桂の協力 重要手筋編 その21",
+        "initialSfen": "8k/7g1/6+B2/7N1/9/9/9/9/9 b N2rb3g4s2n4l18p 1"
       },
       {
         "id": 41,
         "title": "第41問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5B3/9/7pk/9/7Pp/9/9/9/9 b GL2rb3g4s4n3l15p 1"
-      },
+        "description": "駒の打ち場所を作る 重要手筋編 その５",
+        "initialSfen": "7+Bl/9/6nk1/6ppp/9/9/9/9/9 b BNL2r4g4s2n2l15p 1"
+      }
+    ],
+    "timestamp": 1790060396167
+  },
+  {
+    "id": "1790062267425",
+    "title": "©kiryoアプリ　詰みの基本手筋③ (2026/9/22)",
+    "appTitle": "©kiryoアプリ　詰みの基本手筋③",
+    "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=14-3",
+    "problems": [
       {
         "id": 42,
         "title": "第42問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5B1n1/9/6Bpk/9/7Pp/9/9/9/9 b Rr4g4s3n4l15p 1"
+        "description": "邪魔駒消去 重要手筋編 その３",
+        "initialSfen": "6pk1/5R3/6+B1s/9/9/9/9/9/9 b 2Nrb4g3s2n4l17p 1"
       },
       {
         "id": 43,
         "title": "第43問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nl/8k/7pp/6B2/9/9/9/9/9 b GN2rb3g4s2n3l16p 1"
+        "description": "邪魔駒消去② 重要手筋編 その４",
+        "initialSfen": "5g1nl/7k1/5p1pp/6+R2/7N1/9/9/9/9 b GNr2b2g4sn3l15p 1"
       },
       {
         "id": 44,
         "title": "第44問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7nl/6Rnk/8p/5p3/9/9/9/9/9 b BN 1"
+        "description": "上下挟撃① 重要手筋編 その17",
+        "initialSfen": "4+R4/5sk2/5g3/5ppS1/7P1/9/9/9/9 b R2b3g2s4n4l15p 1"
       },
       {
         "id": 45,
         "title": "第45問",
-        "description": "かんたん３手詰",
-        "initialSfen": "6snk/7nl/6+R2/5B3/9/9/9/9/9 b rb4g3s2n3l18p 1"
+        "description": "上下挟撃② 重要手筋編 その18",
+        "initialSfen": "5+R1nl/6gk1/8p/9/6S2/9/9/9/9 b GSr2b2g2s3n3l17p 1"
       },
       {
         "id": 46,
         "title": "第46問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/6+Rnk/7+rp/5B3/9/9/9/9/9 b b4g4s3n3l17p 1"
+        "description": "退路に捨て駒① 重要手筋編 その１",
+        "initialSfen": "3R3nl/5kg2/4Ppspp/6p2/9/9/9/9/9 b Brb3g3s3n3l13p 1"
       },
       {
         "id": 47,
         "title": "第47問",
-        "description": "かんたん３手詰",
-        "initialSfen": "7k1/5BPs1/9/7L1/9/9/9/9/9 b 2rb4g3s4n3l17p 1"
+        "description": "退路に捨て駒② 重要手筋編 その２",
+        "initialSfen": "7nl/7k1/6Pp1/5+R3/9/9/9/9/9 b SLr2b4g3s3n2l16p 1"
       },
       {
         "id": 48,
         "title": "第48問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5Rgk1/7s1/6P2/7L1/9/9/9/9/9 b r2b3g3s4n3l17p 1"
+        "description": "銀を捨てて追い込む 手筋応用編 その１",
+        "initialSfen": "8l/7k1/5+P1pp/9/9/9/9/9/9 b 2S2r2b4g2s4n3l15p 1"
       },
       {
         "id": 49,
         "title": "第49問",
-        "description": "かんたん３手詰",
-        "initialSfen": "8l/7k1/6Ppp/6B2/9/9/9/9/9 b GN2rb3g4s3n3l15p 1"
+        "description": "縦型の送りの手筋 手筋応用編 その６",
+        "initialSfen": "3+R3nl/7k1/6ppp/9/9/9/9/7R1/9 b G2b3g4s3n3l15p 1"
       },
       {
         "id": 50,
         "title": "第50問",
-        "description": "かんたん３手詰",
-        "initialSfen": "5g1nl/6sk1/6ppp/5B3/9/9/9/9/9 b GN2rb2g3s2n3l15p 1"
+        "description": "送りの手筋の応用 手筋応用編 その５",
+        "initialSfen": "6knl/3+R2g2/7pp/9/9/9/9/9/9 b 2GSr2bg3s3n3l16p 1"
+      },
+      {
+        "id": 51,
+        "title": "第51問",
+        "description": "龍の横利きを通す 手筋応用編 その４",
+        "initialSfen": "ln1g5/1ks2+R3/2p6/1P7/9/9/9/9/9 b GNr2b2g3s2n3l16p 1"
+      },
+      {
+        "id": 52,
+        "title": "第52問",
+        "description": "美濃囲いを角桂の協力で詰ます 手筋応用編 その８",
+        "initialSfen": "ln1g5/1ks6/1pp6/p2B5/9/P8/9/9/9 b G2N2rb2g3sn3l14p 1"
+      },
+      {
+        "id": 53,
+        "title": "第53問",
+        "description": "尻金の応用 手筋応用編 その３",
+        "initialSfen": "4+R4/6k2/5g1pl/5pp2/7P1/9/9/9/9 b 2Gr2bg4s4n3l14p 1"
+      },
+      {
+        "id": 54,
+        "title": "第54問",
+        "description": "飛車でおびき出して金打ち 手筋応用編 その２",
+        "initialSfen": "5+R1nl/6gk1/4+P1spp/5gp2/9/9/9/9/9 b RS2b2g2s3n3l14p 1"
+      },
+      {
+        "id": 55,
+        "title": "第55問",
+        "description": "大駒は離して打ての応用 手筋応用編 その９",
+        "initialSfen": "6p2/7k1/5+P2l/7pp/9/9/9/9/9 b BS2rb4g3s4n3l14p 1"
+      },
+      {
+        "id": 56,
+        "title": "第56問",
+        "description": "木村美濃攻略 囲い攻略の詰み手筋編 その１",
+        "initialSfen": "ln7/1kg2+R3/ppps5/5B3/9/9/9/9/9 b Srb3g2s3n3l15p 1"
+      },
+      {
+        "id": 57,
+        "title": "第57問",
+        "description": "矢倉攻略① 囲い攻略の詰み手筋編 その２",
+        "initialSfen": "7nl/4R1gk1/6ppp/9/9/9/9/9/9 b BSNrb3g3s2n3l15p 1"
+      },
+      {
+        "id": 58,
+        "title": "第58問",
+        "description": "美濃攻略① 囲い攻略の詰み手筋編 その７",
+        "initialSfen": "lnBg5/k1s6/1p7/ps7/9/9/9/9/9 b 2G2rbg2s3n3l16p 1"
+      },
+      {
+        "id": 59,
+        "title": "第59問",
+        "description": "美濃攻略② 囲い攻略の詰み手筋編 その８",
+        "initialSfen": "3g5/2s6/kppp5/9/p8/2P6/2N6/9/9 b RGLr2b2g3s3n3l13p 1"
+      },
+      {
+        "id": 60,
+        "title": "第60問",
+        "description": "舟囲い攻略① 囲い攻略の詰み手筋編 その９",
+        "initialSfen": "4R2nl/5gk2/5p1pp/6p2/5P1P1/9/9/9/9 b GSLr2b2g3s3n2l12p 1"
+      },
+      {
+        "id": 61,
+        "title": "第61問",
+        "description": "銀冠攻略② 囲い攻略の詰み手筋編 その14",
+        "initialSfen": "3R+R2nl/5pgk1/6gs1/6ppp/9/9/9/9/9 b BSb2g2s3n3l14p 1"
       }
     ],
-    "timestamp": 1779554876149
+    "timestamp": 1790062267425
   }
 ]
