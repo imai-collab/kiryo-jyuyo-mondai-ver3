@@ -3462,8 +3462,8 @@
     "timestamp": 1790060396167
   },
   {
-    "id": "1790062267425",
-    "title": "©kiryoアプリ　詰みの基本手筋③ (2026/9/22)",
+    "id": "1790103802320",
+    "title": "©kiryoアプリ　詰みの基本手筋③ (2026/9/23)",
     "appTitle": "©kiryoアプリ　詰みの基本手筋③",
     "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=14-3",
     "problems": [
@@ -3471,123 +3471,1491 @@
         "id": 42,
         "title": "第42問",
         "description": "邪魔駒消去 重要手筋編 その３",
-        "initialSfen": "6pk1/5R3/6+B1s/9/9/9/9/9/9 b 2Nrb4g3s2n4l17p 1"
+        "initialSfen": "6pk1/5R3/6+B1s/9/9/9/9/9/9 b 2Nrb4g3s2n4l17p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 43,
         "title": "第43問",
         "description": "邪魔駒消去② 重要手筋編 その４",
-        "initialSfen": "5g1nl/7k1/5p1pp/6+R2/7N1/9/9/9/9 b GNr2b2g4sn3l15p 1"
+        "initialSfen": "5g1nl/7k1/5p1pp/6+R2/7N1/9/9/9/9 b GNr2b2g4sn3l15p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 44,
         "title": "第44問",
         "description": "上下挟撃① 重要手筋編 その17",
-        "initialSfen": "4+R4/5sk2/5g3/5ppS1/7P1/9/9/9/9 b R2b3g2s4n4l15p 1"
+        "initialSfen": "4+R4/5sk2/5g3/5ppS1/7P1/9/9/9/9 b R2b3g2s4n4l15p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 4
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 45,
         "title": "第45問",
         "description": "上下挟撃② 重要手筋編 その18",
-        "initialSfen": "5+R1nl/6gk1/8p/9/6S2/9/9/9/9 b GSr2b2g2s3n3l17p 1"
+        "initialSfen": "5+R1nl/6gk1/8p/9/6S2/9/9/9/9 b GSr2b2g2s3n3l17p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 5
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 4,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 5,
+              "y": 3
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 46,
         "title": "第46問",
         "description": "退路に捨て駒① 重要手筋編 その１",
-        "initialSfen": "3R3nl/5kg2/4Ppspp/6p2/9/9/9/9/9 b Brb3g3s3n3l13p 1"
+        "initialSfen": "3R3nl/5kg2/4Ppspp/6p2/9/9/9/9/9 b Brb3g3s3n3l13p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 1
+            },
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 5,
+              "y": 2
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 2
+            },
+            "to": {
+              "x": 5,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 47,
         "title": "第47問",
         "description": "退路に捨て駒② 重要手筋編 その２",
-        "initialSfen": "7nl/7k1/6Pp1/5+R3/9/9/9/9/9 b SLr2b4g3s3n2l16p 1"
+        "initialSfen": "7nl/7k1/6Pp1/5+R3/9/9/9/9/9 b SLr2b4g3s3n2l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 4
+            },
+            "piece": "KY"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 4
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 48,
         "title": "第48問",
         "description": "銀を捨てて追い込む 手筋応用編 その１",
-        "initialSfen": "8l/7k1/5+P1pp/9/9/9/9/9/9 b 2S2r2b4g2s4n3l15p 1"
+        "initialSfen": "8l/7k1/5+P1pp/9/9/9/9/9/9 b 2S2r2b4g2s4n3l15p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 49,
         "title": "第49問",
         "description": "縦型の送りの手筋 手筋応用編 その６",
-        "initialSfen": "3+R3nl/7k1/6ppp/9/9/9/9/7R1/9 b G2b3g4s3n3l15p 1"
+        "initialSfen": "3+R3nl/7k1/6ppp/9/9/9/9/7R1/9 b G2b3g4s3n3l15p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 6,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 8
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 50,
         "title": "第50問",
         "description": "送りの手筋の応用 手筋応用編 その５",
-        "initialSfen": "6knl/3+R2g2/7pp/9/9/9/9/9/9 b 2GSr2bg3s3n3l16p 1"
+        "initialSfen": "6knl/3+R2g2/7pp/9/9/9/9/9/9 b 2GSr2bg3s3n3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 51,
         "title": "第51問",
         "description": "龍の横利きを通す 手筋応用編 その４",
-        "initialSfen": "ln1g5/1ks2+R3/2p6/1P7/9/9/9/9/9 b GNr2b2g3s2n3l16p 1"
+        "initialSfen": "ln1g5/1ks2+R3/2p6/1P7/9/9/9/9/9 b GNr2b2g3s2n3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 8,
+              "y": 3
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 6,
+              "y": 3
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 2
+            },
+            "to": {
+              "x": 6,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 3
+            },
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 52,
         "title": "第52問",
         "description": "美濃囲いを角桂の協力で詰ます 手筋応用編 その８",
-        "initialSfen": "ln1g5/1ks6/1pp6/p2B5/9/P8/9/9/9 b G2N2rb2g3sn3l14p 1"
+        "initialSfen": "ln1g5/1ks6/1pp6/p2B5/9/P8/9/9/9 b G2N2rb2g3sn3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 7,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 4
+            },
+            "to": {
+              "x": 7,
+              "y": 5
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 3
+            },
+            "to": {
+              "x": 8,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 5
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 53,
         "title": "第53問",
         "description": "尻金の応用 手筋応用編 その３",
-        "initialSfen": "4+R4/6k2/5g1pl/5pp2/7P1/9/9/9/9 b 2Gr2bg4s4n3l14p 1"
+        "initialSfen": "4+R4/6k2/5g1pl/5pp2/7P1/9/9/9/9 b 2Gr2bg4s4n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 3
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 54,
         "title": "第54問",
         "description": "飛車でおびき出して金打ち 手筋応用編 その２",
-        "initialSfen": "5+R1nl/6gk1/4+P1spp/5gp2/9/9/9/9/9 b RS2b2g2s3n3l14p 1"
+        "initialSfen": "5+R1nl/6gk1/4+P1spp/5gp2/9/9/9/9/9 b RS2b2g2s3n3l14p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 5,
+              "y": 1
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 55,
         "title": "第55問",
         "description": "大駒は離して打ての応用 手筋応用編 その９",
-        "initialSfen": "6p2/7k1/5+P2l/7pp/9/9/9/9/9 b BS2rb4g3s4n3l14p 1"
+        "initialSfen": "6p2/7k1/5+P2l/7pp/9/9/9/9/9 b BS2rb4g3s4n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 4,
+              "y": 4
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 4
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 56,
         "title": "第56問",
         "description": "木村美濃攻略 囲い攻略の詰み手筋編 その１",
-        "initialSfen": "ln7/1kg2+R3/ppps5/5B3/9/9/9/9/9 b Srb3g2s3n3l15p 1"
+        "initialSfen": "ln7/1kg2+R3/ppps5/5B3/9/9/9/9/9 b Srb3g2s3n3l15p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 7,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 3
+            },
+            "to": {
+              "x": 7,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 57,
         "title": "第57問",
         "description": "矢倉攻略① 囲い攻略の詰み手筋編 その２",
-        "initialSfen": "7nl/4R1gk1/6ppp/9/9/9/9/9/9 b BSNrb3g3s2n3l15p 1"
+        "initialSfen": "7nl/4R1gk1/6ppp/9/9/9/9/9/9 b BSNrb3g3s2n3l15p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 3
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KY"
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 58,
         "title": "第58問",
         "description": "美濃攻略① 囲い攻略の詰み手筋編 その７",
-        "initialSfen": "lnBg5/k1s6/1p7/ps7/9/9/9/9/9 b 2G2rbg2s3n3l16p 1"
+        "initialSfen": "lnBg5/k1s6/1p7/ps7/9/9/9/9/9 b 2G2rbg2s3n3l16p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 1
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 59,
         "title": "第59問",
         "description": "美濃攻略② 囲い攻略の詰み手筋編 その８",
-        "initialSfen": "3g5/2s6/kppp5/9/p8/2P6/2N6/9/9 b RGLr2b2g3s3n3l13p 1"
+        "initialSfen": "3g5/2s6/kppp5/9/p8/2P6/2N6/9/9 b RGLr2b2g3s3n3l13p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 9,
+              "y": 1
+            },
+            "piece": "HI"
+          },
+          {
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "to": {
+              "x": 9,
+              "y": 4
+            },
+            "piece": "KY"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 3
+            },
+            "to": {
+              "x": 9,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 1
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "piece": "KE"
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 5
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 60,
         "title": "第60問",
         "description": "舟囲い攻略① 囲い攻略の詰み手筋編 その９",
-        "initialSfen": "4R2nl/5gk2/5p1pp/6p2/5P1P1/9/9/9/9 b GSLr2b2g3s3n2l12p 1"
+        "initialSfen": "4R2nl/5gk2/5p1pp/6p2/5P1P1/9/9/9/9 b GSLr2b2g3s3n2l12p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "piece": "KY"
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 1
+            },
+            "to": {
+              "x": 5,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 2
+            },
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 61,
         "title": "第61問",
         "description": "銀冠攻略② 囲い攻略の詰み手筋編 その14",
-        "initialSfen": "3R+R2nl/5pgk1/6gs1/6ppp/9/9/9/9/9 b BSb2g2s3n3l14p 1"
+        "initialSfen": "3R+R2nl/5pgk1/6gs1/6ppp/9/9/9/9/9 b BSb2g2s3n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 3
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          }
+        ]
       }
     ],
-    "timestamp": 1790062267425
+    "timestamp": 1790103802330
   }
 ]
