@@ -1339,7 +1339,7 @@
     "timestamp": 1790061292602
   },
   {
-    "id": "1790061271343",
+    "id": "1790068494545",
     "title": "©kiryoアプリ　ひと目の寄せ-詰将棋編③ (2026/9/22)",
     "appTitle": "©kiryoアプリ　ひと目の寄せ-詰将棋編③",
     "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=13-3",
@@ -1348,124 +1348,1854 @@
         "id": 51,
         "title": "第51問",
         "description": "第51問 実戦の詰み 矢倉系５ 桂のない形",
-        "initialSfen": "5+R2l/6gk1/5g1pp/5p3/7P1/9/9/9/9 b RBb2g4s4n3l14p 1"
+        "initialSfen": "5+R2l/6gk1/5g1pp/5p3/7P1/9/9/9/9 b RBb2g4s4n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 1,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          }
+        ]
       },
       {
         "id": 52,
         "title": "第52問",
         "description": "第52問 実戦の詰み 矢倉系６ 金を取りたくなりますが",
-        "initialSfen": "5+B1nl/6gk1/5gsp1/5ppNp/9/9/9/9/9 b B2r2g3s2n3l14p 1"
+        "initialSfen": "5+B1nl/6gk1/5gsp1/5ppNp/9/9/9/9/9 b B2r2g3s2n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 53,
         "title": "第53問",
         "description": "第53問 実戦の詰み 矢倉系７ ２四歩を手抜かれました（３手）",
-        "initialSfen": "7nl/5bgk1/5gspp/5ppP1/9/6P2/6N1P/7R1/9 b BNr2g3sn3l11p 1"
+        "initialSfen": "7nl/5bgk1/5gspp/5ppP1/9/6P2/6N1P/7R1/9 b BNr2g3sn3l11p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 2,
+              "y": 4
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 8
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "to": {
+              "x": 1,
+              "y": 5
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 3
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 5
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 54,
         "title": "第54問",
         "description": "第54問 実戦の詰み 矢倉系８ ペタペタと打ちます",
-        "initialSfen": "6knl/3+R2g2/5gspp/5pp2/9/9/9/9/9 b RG2bg3s3n3l14p 1"
+        "initialSfen": "6knl/3+R2g2/5gspp/5pp2/9/9/9/9/9 b RG2bg3s3n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 4,
+              "y": 1
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "HI"
+          }
+        ]
       },
       {
         "id": 55,
         "title": "第55問",
         "description": "第55問 実戦の詰み 美濃囲い系１ 基本の詰み",
-        "initialSfen": "ln1g5/1ks6/pppp5/9/4B4/9/9/9/9 b GN2rb2g3s2n3l14p 1"
+        "initialSfen": "ln1g5/1ks6/pppp5/9/4B4/9/9/9/9 b GN2rb2g3s2n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 7,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 56,
         "title": "第56問",
         "description": "第56問 実戦の詰み 美濃囲い系２ 端歩が突いてある場合は",
-        "initialSfen": "ln1g5/1ks6/1ppp5/p8/4B4/P1P6/9/9/9 b G2N2rb2g3sn3l12p 1"
+        "initialSfen": "ln1g5/1ks6/1ppp5/p8/4B4/P1P6/9/9/9 b G2N2rb2g3sn3l12p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 7,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 5
+            },
+            "to": {
+              "x": 6,
+              "y": 6
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 3
+            },
+            "to": {
+              "x": 8,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 5
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 57,
         "title": "第57問",
         "description": "第57問 実戦の詰み 美濃囲い系３ これも基本の形",
-        "initialSfen": "ln1g1R3/1ksG5/pppp5/9/9/9/9/9/9 b GSr2bg2s3n3l14p 1"
+        "initialSfen": "ln1g1R3/1ksG5/pppp5/9/9/9/9/9/9 b GSr2bg2s3n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 1
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 58,
         "title": "第58問",
         "description": "第58問 実戦の詰み 美濃囲い系４ 駒を取る詰み",
-        "initialSfen": "ln1+P5/1ks6/1pp6/p8/9/PPP6/9/9/9 b BG2rb3g3s3n3l11p 1"
+        "initialSfen": "ln1+P5/1ks6/1pp6/p8/9/PPP6/9/9/9 b BG2rb3g3s3n3l11p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 7,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 3
+            },
+            "to": {
+              "x": 8,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 7,
+              "y": 5
+            },
+            "piece": "GI"
+          }
+        ]
       },
       {
         "id": 59,
         "title": "第59問",
         "description": "第59問 実戦の詰み 美濃囲い系５ 角がない場合は（３手）",
-        "initialSfen": "ln7/1ks+P5/1pp6/p8/9/P1P6/9/9/9 b G2SL2r2b3gs3n2l12p 1"
+        "initialSfen": "ln7/1ks+P5/1pp6/p8/9/P1P6/9/9/9 b G2SL2r2b3gs3n2l12p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "piece": "KY"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 3
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 1
+            },
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 3
+            },
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 60,
         "title": "第60問",
         "description": "第60問 実戦の詰み 美濃囲い系６ 両王手の筋（３手）",
-        "initialSfen": "lng2+R3/1ksP5/1pppB4/p8/9/P1P6/9/9/9 b Srb3g2s3n3l11p 1"
+        "initialSfen": "lng2+R3/1ksP5/1pppB4/p8/9/P1P6/9/9/9 b Srb3g2s3n3l11p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 1
+            },
+            "to": {
+              "x": 7,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 2
+            },
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 2
+            },
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 3
+            },
+            "to": {
+              "x": 7,
+              "y": 5
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 4
+            },
+            "piece": "KY"
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 5
+            },
+            "piece": "KE"
+          }
+        ]
       },
       {
         "id": 61,
         "title": "第61問",
         "description": "第61問 実戦の詰み 美濃囲い系７ 継ぎ桂の筋",
-        "initialSfen": "ln1g5/1ks6/1ppp5/p8/9/PNP6/1P7/9/9 b BGNL2rb2g3sn2l11p 1"
+        "initialSfen": "ln1g5/1ks6/1ppp5/p8/9/PNP6/1P7/9/9 b BGNL2rb2g3sn2l11p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 7,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 3
+            },
+            "to": {
+              "x": 7,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 6
+            },
+            "to": {
+              "x": 7,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "piece": "KY"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 3
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 1
+            },
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 3
+            },
+            "to": {
+              "x": 8,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 7,
+              "y": 5
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 62,
         "title": "第62問",
         "description": "第62問 実戦の詰み 美濃囲い系８ 豊富な持駒で一気に詰ます（３手）",
-        "initialSfen": "ln1g1+R3/1ks6/pppp5/9/9/9/9/9/9 b RBGSb2g2s3n3l14p 1"
+        "initialSfen": "ln1g1+R3/1ks6/pppp5/9/9/9/9/9/9 b RBGSb2g2s3n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 1
+            },
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 5,
+              "y": 2
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 2
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 6,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 1
+            },
+            "to": {
+              "x": 6,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 63,
         "title": "第63問",
         "description": "第63問 実戦の詰み 美濃囲い系９ 馬で攻める場合（３手）",
-        "initialSfen": "ln1g5/2k6/1pp2+B3/p2p5/2N6/PPP6/9/9/9 b S2rb3g3s2n3l11p 1"
+        "initialSfen": "ln1g5/2k6/1pp2+B3/p2p5/2N6/PPP6/9/9/9 b S2rb3g3s2n3l11p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 6,
+              "y": 3
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 2
+            },
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 5
+            },
+            "to": {
+              "x": 8,
+              "y": 3
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 8,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 3
+            },
+            "to": {
+              "x": 6,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 3
+            },
+            "to": {
+              "x": 8,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 3
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 64,
         "title": "第64問",
         "description": "第64問 実戦の詰み 穴熊１ 実戦でうっかりしないように",
-        "initialSfen": "7nk/6Gsl/7pp/9/8N/9/9/9/9 b S2r2b3g2s2n3l16p 1"
+        "initialSfen": "7nk/6Gsl/7pp/9/8N/9/9/9/9 b S2r2b3g2s2n3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 1,
+              "y": 5
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "piece": "GI"
+          }
+        ]
       },
       {
         "id": 65,
         "title": "第65問",
         "description": "第65問 実戦の詰み 穴熊２ 王手を続けるには",
-        "initialSfen": "4R1gnk/6Gsl/5G1pp/9/9/9/9/9/9 b r2bg3s3n3l16p 1"
+        "initialSfen": "4R1gnk/6Gsl/5G1pp/9/9/9/9/9/9 b r2bg3s3n3l16p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 1
+            },
+            "to": {
+              "x": 1,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 3,
+              "y": 2
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 1,
+              "y": 1
+            },
+            "to": {
+              "x": 2,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 2,
+              "y": 2
+            },
+            "to": {
+              "x": 3,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 3,
+              "y": 2
+            },
+            "piece": "GI"
+          }
+        ]
       },
       {
         "id": 66,
         "title": "第66問",
         "description": "第66問 実戦の詰み 穴熊３ 小駒もうまく使って。（３手）",
-        "initialSfen": "kng1R+R3/lsG6/pppp5/9/9/9/9/9/9 b BLb2g3s3n2l14p 1"
+        "initialSfen": "kng1R+R3/lsG6/pppp5/9/9/9/9/9/9 b BLb2g3s3n2l14p 1",
+        "solution": [
+          {
+            "from": {
+              "x": 7,
+              "y": 2
+            },
+            "to": {
+              "x": 8,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 1
+            },
+            "to": {
+              "x": 8,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 1
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KY"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 1
+            },
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 7,
+              "y": 4
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 3
+            },
+            "to": {
+              "x": 7,
+              "y": 4
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 9,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 1
+            },
+            "piece": "KY"
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 67,
         "title": "第67問",
         "description": "第67問 実戦の詰み 右玉１ 送りの手筋で",
-        "initialSfen": "l8/2kg1R3/2ns5/ppppP4/9/9/9/9/9 b BGrb2g3s3n3l13p 1"
+        "initialSfen": "l8/2kg1R3/2ns5/ppppP4/9/9/9/9/9 b BGrb2g3s3n3l13p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 2
+            },
+            "to": {
+              "x": 6,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 2
+            },
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 1
+            },
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 5,
+              "y": 3
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 2
+            },
+            "to": {
+              "x": 5,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 4,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 1
+            },
+            "to": {
+              "x": 6,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 3
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 68,
         "title": "第68問",
         "description": "第68問 実戦の詰み 右玉２ 捨て駒の連続。（３手）",
-        "initialSfen": "l4R3/2kg5/2ns5/pppp5/9/9/9/9/9 b BGSrb2g2s3n3l14p 1"
+        "initialSfen": "l4R3/2kg5/2ns5/pppp5/9/9/9/9/9 b BGSrb2g2s3n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 8,
+              "y": 3
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 2
+            },
+            "to": {
+              "x": 8,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 3
+            },
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 4,
+              "y": 1
+            },
+            "to": {
+              "x": 9,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "piece": "HI"
+          },
+          {
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 3
+            },
+            "to": {
+              "x": 8,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 1
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 3
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "HI"
+          },
+          {
+            "from": {
+              "x": 9,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "piece": "KE"
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 1
+            },
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "promote": true
+          }
+        ]
       },
       {
         "id": 69,
         "title": "第69問",
         "description": "第69問 実戦の詰み 金無双 金無双を詰ますには",
-        "initialSfen": "ln3R3/1skgg4/pp1pp4/2p6/3N5/9/9/9/9 b BGPrbg3s2n3l12p 1"
+        "initialSfen": "ln3R3/1skgg4/pp1pp4/2p6/3N5/9/9/9/9 b BGPrbg3s2n3l12p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 7,
+              "y": 3
+            },
+            "piece": "FU"
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 2
+            },
+            "to": {
+              "x": 7,
+              "y": 3
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 6,
+              "y": 1
+            },
+            "piece": "KA"
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 2
+            },
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 1
+            },
+            "to": {
+              "x": 5,
+              "y": 2
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 2
+            },
+            "to": {
+              "x": 5,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 5,
+              "y": 1
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 2
+            },
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 1
+            },
+            "to": {
+              "x": 6,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 2
+            },
+            "to": {
+              "x": 7,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "piece": "KI"
+          }
+        ]
       },
       {
         "id": 70,
         "title": "第70問",
         "description": "第70問 実戦の詰み 手掛かりなし 取っ掛かりのない形（３手）",
-        "initialSfen": "lnk6/9/pppp5/9/9/9/9/9/9 b RG2Sr2b3g2s3n3l14p 1"
+        "initialSfen": "lnk6/9/pppp5/9/9/9/9/9/9 b RG2Sr2b3g2s3n3l14p 1",
+        "solution": [
+          {
+            "to": {
+              "x": 5,
+              "y": 1
+            },
+            "piece": "HI"
+          },
+          {
+            "to": {
+              "x": 6,
+              "y": 1
+            },
+            "piece": "KY"
+          },
+          {
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 1
+            },
+            "to": {
+              "x": 6,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 5,
+              "y": 3
+            },
+            "piece": "GI"
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 2
+            },
+            "to": {
+              "x": 7,
+              "y": 1
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 5,
+              "y": 1
+            },
+            "to": {
+              "x": 6,
+              "y": 1
+            },
+            "promote": true
+          },
+          {
+            "from": {
+              "x": 7,
+              "y": 1
+            },
+            "to": {
+              "x": 8,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "to": {
+              "x": 7,
+              "y": 2
+            },
+            "piece": "KI"
+          },
+          {
+            "from": {
+              "x": 8,
+              "y": 2
+            },
+            "to": {
+              "x": 9,
+              "y": 2
+            },
+            "promote": false
+          },
+          {
+            "from": {
+              "x": 6,
+              "y": 1
+            },
+            "to": {
+              "x": 8,
+              "y": 1
+            },
+            "promote": false
+          }
+        ]
       }
     ],
-    "timestamp": 1790061271343
+    "timestamp": 1790068494546
   },
   {
     "id": "1790060483977",
