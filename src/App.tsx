@@ -1363,7 +1363,8 @@ SFEN形式の例: 7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1
 
     setMessage('相手が考えています...');
 
-    const registeredSolution = currentProblem?.solution;
+    const isAlreadySolved = solvedProblems.includes(currentProblem?.id);
+    const registeredSolution = isAlreadySolved ? null : currentProblem?.solution;
     let solutionGoteMove: Move | null = null;
     const senteIndex = moveHistory.length;
     const goteIndex = senteIndex + 1;
