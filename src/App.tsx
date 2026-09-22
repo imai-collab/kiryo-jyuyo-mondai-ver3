@@ -342,6 +342,48 @@ export default function App() {
     });
   };
 
+  const moveDataSetUp = async (index: number) => {
+    if (index <= 0 || index >= savedDataSets.length) return;
+    const updated = [...savedDataSets];
+    const temp = updated[index];
+    updated[index] = updated[index - 1];
+    updated[index - 1] = temp;
+
+    setSavedDataSets(updated);
+    localStorage.setItem('tsumeShogiSavedDataSets', JSON.stringify(updated));
+
+    try {
+      await fetch('/api/datasets', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(updated)
+      });
+    } catch (e) {
+      console.error("Failed to reorder datasets on server", e);
+    }
+  };
+
+  const moveDataSetDown = async (index: number) => {
+    if (index < 0 || index >= savedDataSets.length - 1) return;
+    const updated = [...savedDataSets];
+    const temp = updated[index];
+    updated[index] = updated[index + 1];
+    updated[index + 1] = temp;
+
+    setSavedDataSets(updated);
+    localStorage.setItem('tsumeShogiSavedDataSets', JSON.stringify(updated));
+
+    try {
+      await fetch('/api/datasets', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(updated)
+      });
+    } catch (e) {
+      console.error("Failed to reorder datasets on server", e);
+    }
+  };
+
   useEffect(() => {
     const fetchProblems = async () => {
       let serverImages: Record<string, string> = {};
@@ -2315,21 +2357,42 @@ SFEN形式の例: 7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1
 
                     {savedDataSets.length > 0 && (
                       <div className="flex flex-col gap-2 mt-2">
-                        <span className="text-xs font-bold text-stone-700">保存済みデータ（クリックで読み込み）:</span>
-                        <div className="max-h-40 overflow-y-auto pr-1 flex flex-col gap-2">
-                          {savedDataSets.map((ds) => (
+                        <div className="flex items-center justify-between">
+                          <span className="text-xs font-bold text-stone-700">保存済みデータ（クリックで読み込み）:</span>
+                          <span className="text-[11px] text-stone-500">矢印で並び順を変更</span>
+                        </div>
+                        <div className="max-h-48 overflow-y-auto pr-1 flex flex-col gap-2">
+                          {savedDataSets.map((ds, index) => (
                             <div key={ds.id} className="flex items-center justify-between bg-white px-3 py-2 rounded-md border border-stone-300 shadow-sm text-sm hover:border-amber-400 cursor-pointer transition-colors" onClick={() => loadDataSet(ds)}>
-                              <div className="flex flex-col overflow-hidden">
+                              <div className="flex flex-col overflow-hidden flex-1 min-w-0 pr-2">
                                 <span className="font-bold text-stone-800 truncate">{ds.title}</span>
                                 <span className="text-xs text-stone-600 line-clamp-1 truncate">{ds.problems.length}問</span>
                               </div>
-                              <button
-                                onClick={(e) => { e.stopPropagation(); deleteDataSet(ds.id); }}
-                                className="p-1.5 text-red-400 hover:text-red-600 hover:bg-red-50 rounded"
-                                title="削除"
-                              >
-                                <Trash2 size={16} />
-                              </button>
+                              <div className="flex items-center gap-1 shrink-0" onClick={(e) => e.stopPropagation()}>
+                                <button
+                                  onClick={() => moveDataSetUp(index)}
+                                  disabled={index === 0}
+                                  className="p-1.5 text-stone-600 hover:text-stone-900 hover:bg-stone-100 rounded disabled:opacity-20 disabled:hover:bg-transparent transition-colors"
+                                  title="上へ移動"
+                                >
+                                  <ArrowUp size={16} />
+                                </button>
+                                <button
+                                  onClick={() => moveDataSetDown(index)}
+                                  disabled={index === savedDataSets.length - 1}
+                                  className="p-1.5 text-stone-600 hover:text-stone-900 hover:bg-stone-100 rounded disabled:opacity-20 disabled:hover:bg-transparent transition-colors"
+                                  title="下へ移動"
+                                >
+                                  <ArrowDown size={16} />
+                                </button>
+                                <button
+                                  onClick={() => deleteDataSet(ds.id)}
+                                  className="p-1.5 text-red-400 hover:text-red-600 hover:bg-red-50 rounded transition-colors"
+                                  title="削除"
+                                >
+                                  <Trash2 size={16} />
+                                </button>
+                              </div>
                             </div>
                           ))}
                         </div>
