@@ -1021,9 +1021,9 @@
     "timestamp": 1790066105892
   },
   {
-    "id": "1790061300116",
-    "title": "©kiryoアプリ　ひと目の寄せ-詰将棋編① (2026/9/22)",
-    "appTitle": "©kiryoアプリ　ひと目の寄せ-詰将棋編①",
+    "id": "1790128266428",
+    "title": "©kiryoアプリ　ひと目の寄せ-詰① (2026/9/23)",
+    "appTitle": "©kiryoアプリ　ひと目の寄せ-詰①",
     "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=13",
     "problems": [
       {
@@ -1207,12 +1207,12 @@
         "initialSfen": "7nl/6k2/4Sppp1/8p/9/9/9/9/9 b BGN2rb3g3s2n3l14p 1"
       }
     ],
-    "timestamp": 1790061300116
+    "timestamp": 1790128266438
   },
   {
-    "id": "1790061292602",
-    "title": "©kiryoアプリ　ひと目の寄せ-詰将棋編② (2026/9/22)",
-    "appTitle": "©kiryoアプリ　ひと目の寄せ-詰将棋編②",
+    "id": "1790128282941",
+    "title": "©kiryoアプリ　ひと目の寄せ-詰② (2026/9/23)",
+    "appTitle": "©kiryoアプリ　ひと目の寄せ-詰②",
     "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=13-2",
     "problems": [
       {
@@ -1336,12 +1336,12 @@
         "initialSfen": "7nl/5+P1k1/6s2/6ppp/9/9/9/9/9 b RGSr2b3g2s3n3l14p 1"
       }
     ],
-    "timestamp": 1790061292602
+    "timestamp": 1790128282941
   },
   {
-    "id": "1790068494545",
-    "title": "©kiryoアプリ　ひと目の寄せ-詰将棋編③ (2026/9/22)",
-    "appTitle": "©kiryoアプリ　ひと目の寄せ-詰将棋編③",
+    "id": "1790128302087",
+    "title": "©kiryoアプリ　ひと目の寄せ-詰③ (2026/9/23)",
+    "appTitle": "©kiryoアプリ　ひと目の寄せ-詰③",
     "clearUrl": "https://ais-pre-x5hnwaz6bcxstyuj6qxrfz-87151204104.asia-northeast1.run.app/complete?book=13-3",
     "problems": [
       {
@@ -3195,7 +3195,7 @@
         ]
       }
     ],
-    "timestamp": 1790068494546
+    "timestamp": 1790128302087
   },
   {
     "id": "1790060483977",
