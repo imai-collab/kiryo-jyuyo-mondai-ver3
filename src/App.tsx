@@ -2363,12 +2363,20 @@ SFEN形式の例: 7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1
                           <span className="text-[11px] text-stone-500">矢印で並び順を変更</span>
                         </div>
                         <div className="max-h-48 overflow-y-auto pr-1 flex flex-col gap-2">
-                          {savedDataSets.map((ds, index) => (
-                            <div key={ds.id} className="flex items-center justify-between bg-white px-3 py-2 rounded-md border border-stone-300 shadow-sm text-sm hover:border-amber-400 cursor-pointer transition-colors" onClick={() => loadDataSet(ds)}>
-                              <div className="flex flex-col overflow-hidden flex-1 min-w-0 pr-2">
-                                <span className="font-bold text-stone-800 truncate">{ds.title}</span>
-                                <span className="text-xs text-stone-600 line-clamp-1 truncate">{ds.problems.length}問</span>
-                              </div>
+                          {savedDataSets.map((ds, index) => {
+                            const match = ds.title.match(/^(.*?)\s*(\(\d{4}[/-]\d{1,2}[/-]\d{1,2}\))$/);
+                            const mainTitle = match ? match[1] : ds.title;
+                            const dateStr = match ? match[2] : null;
+
+                            return (
+                              <div key={ds.id} className="flex items-center justify-between bg-white px-3 py-2 rounded-md border border-stone-300 shadow-sm text-sm hover:border-amber-400 cursor-pointer transition-colors" onClick={() => loadDataSet(ds)}>
+                                <div className="flex flex-col overflow-hidden flex-1 min-w-0 pr-2">
+                                  <span className="font-bold text-stone-800 truncate">{mainTitle}</span>
+                                  <div className="flex items-center gap-2 text-xs text-stone-600 truncate">
+                                    {dateStr && <span>{dateStr}</span>}
+                                    <span>{ds.problems.length}問</span>
+                                  </div>
+                                </div>
                               <div className="flex items-center gap-1 shrink-0" onClick={(e) => e.stopPropagation()}>
                                 <button
                                   onClick={() => moveDataSetUp(index)}
@@ -2395,7 +2403,8 @@ SFEN形式の例: 7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1
                                 </button>
                               </div>
                             </div>
-                          ))}
+                          );
+                        })}
                         </div>
                       </div>
                     )}
@@ -2592,18 +2601,27 @@ SFEN形式の例: 7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1
               <div className="p-4 sm:p-6 overflow-y-auto flex-1 flex flex-col gap-3">
                 <span className="text-sm font-bold text-stone-700">保存済みデータから選ぶ:</span>
                 <div className="flex flex-col gap-2">
-                  {savedDataSets.map((ds) => (
-                    <button
-                      key={ds.id}
-                      onClick={() => {
-                        loadDataSetFromStartup(ds);
-                      }}
-                      className="flex flex-col items-start bg-white px-4 py-3 rounded-lg border border-stone-300 shadow-sm hover:border-amber-400 hover:bg-stone-50 transition-colors w-full text-left focus:outline-none focus:ring-2 focus:ring-stone-500"
-                    >
-                      <span className="font-bold text-stone-800 text-base">{ds.title}</span>
-                      <span className="text-xs text-stone-600 mt-1">{ds.problems.length}問収録</span>
-                    </button>
-                  ))}
+                  {savedDataSets.map((ds) => {
+                    const match = ds.title.match(/^(.*?)\s*(\(\d{4}[/-]\d{1,2}[/-]\d{1,2}\))$/);
+                    const mainTitle = match ? match[1] : ds.title;
+                    const dateStr = match ? match[2] : null;
+
+                    return (
+                      <button
+                        key={ds.id}
+                        onClick={() => {
+                          loadDataSetFromStartup(ds);
+                        }}
+                        className="flex flex-col items-start bg-white px-4 py-3 rounded-lg border border-stone-300 shadow-sm hover:border-amber-400 hover:bg-stone-50 transition-colors w-full text-left focus:outline-none focus:ring-2 focus:ring-stone-500"
+                      >
+                        <span className="font-bold text-stone-800 text-base leading-snug">{mainTitle}</span>
+                        <div className="flex items-center gap-2.5 text-xs text-stone-600 mt-1">
+                          {dateStr && <span>{dateStr}</span>}
+                          <span>{ds.problems.length}問収録</span>
+                        </div>
+                      </button>
+                    );
+                  })}
                 </div>
               </div>
               <div className="p-4 bg-[#FDF6E2] border-t border-stone-300 flex justify-center">
